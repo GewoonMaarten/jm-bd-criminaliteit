@@ -1,77 +1,85 @@
-library(httr)
+library(foreach)
+library(dplyr)
 library(tidyverse)
-library(jsonlite)
-library(janitor)
+library(readxl)
+library(readr)
+library(Hmisc)
 
-# Source: https://opendata.cbs.nl/ODataApi/odata/83901NED
-urls = c(
-  "https://opendata.cbs.nl/ODataApi/odata/83901NED/TableInfos",
-  "https://opendata.cbs.nl/ODataApi/odata/83901NED/UntypedDataSet",
-  "https://opendata.cbs.nl/ODataApi/odata/83901NED/TypedDataSet",
-  "https://opendata.cbs.nl/ODataApi/odata/83901NED/DataProperties",
-  "https://opendata.cbs.nl/ODataApi/odata/83901NED/CategoryGroups",
-  "https://opendata.cbs.nl/ODataApi/odata/83901NED/WijkenEnBuurten"
-  )
+#----------------------------------------------------------------------------------------------------------------------
+# Correlation function
+#----------------------------------------------------------------------------------------------------------------------
 
-# Haalt alle wijken buurt van elke gemeente op
-get_wijken_en_buurten = function() {
-  wijken_en_buurten_request = GET(url = urls[6]) %>% 
-    stop_for_status()
-  wijken_en_buurten_json = content(wijken_en_buurten_request, as = "text",encoding = "UTF-8") %>%
-    fromJSON()
+calc_correlation = function(tibble, field_name, cols) {
   
-  return(wijken_en_buurten_json$value)
+  correlation_types = c("spearman", "pearson")
+  
+  tibbles = list()
+  i = 1
+  for (correlation_type in correlation_types) {
+    x = tibble[cols] %>%
+      na.omit() %>% 
+      as.matrix() %>%
+      rcorr(type = correlation_type)
+    
+    x = x$P %>%
+      as.data.frame() %>%
+      rownames_to_column(var = "corr_field") %>%
+      as_tibble() %>%
+      select(corr_field, field_name) %>%
+      rename(!!correlation_type := field_name)
+    
+    tibbles[[i]] = x
+    
+    i = i + 1
+  }
+  
+  tibble = inner_join(x = tibbles[[1]], y = tibbles[[2]], by = "corr_field") %>%
+    na.omit() %>%
+    rowwise() %>%
+    mutate(
+      `S>P` = spearman>pearson,
+      field_name = field_name
+    ) %>%
+    select(field_name, corr_field, spearman, pearson, `S>P`)
+  
+  return(tibble)
 }
 
-#Haalt de gemeente code op, op basis van naam
-get_gemeente_code = function(gemeente) {
-  wijken_en_buurten_tibble = get_wijken_en_buurten()
-  
-  gemeente_codes = wijken_en_buurten_tibble %>%
-    filter(grepl(gemeente, Title) & grepl("GM", Key)) %>%
-    transmute(GM_code = substring(Key, 3, 6))
-  
-  return(gemeente_codes[1,1])
+#----------------------------------------------------------------------------------------------------------------------
+# Cleanup
+#----------------------------------------------------------------------------------------------------------------------
+
+sheets = list(
+  `2014` = 3,
+  `2015` = 6,
+  `2016` = 9,
+  `2017` = 12
+)
+
+tibbles = list()
+
+foreach (key = names(sheets), val = sheets) %do% {
+  tibbles[[key]] = read_xlsx("data/raw/Veiligheidsgevoel en Criminaliteit Amsterdam.xlsx", sheet = val, skip = 5) %>%
+    type_convert(na = c("#NULL!")) %>%
+    mutate(jaar = parse_number(key)) %>%
+    select(-X__1)
 }
 
-#Haalt de buurt namen op basis van gemeente code
-get_buurt_namen_by_gemeente_code = function(code) {
-  wijken_en_buurten_tibble = get_wijken_en_buurten()
+amsterdam = bind_rows(tibbles)
+
+#----------------------------------------------------------------------------------------------------------------------
+# Analysis
+#----------------------------------------------------------------------------------------------------------------------
+
+amsterdam_corr = amsterdam %>%
+  group_by(jaar) %>%
+  do(calc_correlation(., "ipsl_onveiligheids-gevoelens", c(6, 9:174))) %>%
+  ungroup()
+
+#----------------------------------------------------------------------------------------------------------------------
+# Export
+#----------------------------------------------------------------------------------------------------------------------
   
-  buurt_namen = wijken_en_buurten_tibble %>%
-    filter(grepl(code, Municipality)) %>%
-    select(Key, Title)
-  
-  return(buurt_namen)
-}
+write_csv(amsterdam, "data/clean/Veiligheidsgevoel en Criminaliteit Amsterdam.csv")
+write_csv(amsterdam_corr, "data/clean/Correlation Amsterdam.csv")
 
-#Haalt de criminaliteits cijfers op, op basis van een code
-get_criminaliteit_per_gemeente_code = function(code) {
-  query_params = list(`$filter` = str_c("((substring(WijkenEnBuurten,2,4) eq '", code, "')))"))
-
-  criminaliteit_request = GET(urls[3], query = query_params) %>% 
-    stop_for_status()
-  criminaliteit_json = content(criminaliteit_request, as = "text", encoding = "UTF-8") %>%
-    fromJSON()
-  
-  return(criminaliteit_json$value)
-}
-
-amsterdam_code = get_gemeente_code("Amsterdam")
-
-criminaliteit_amsterdam = get_criminaliteit_per_gemeente_code(amsterdam_code)
-criminaliteit_buurt_namen_amsterdam = get_buurt_namen_by_gemeente_code(amsterdam_code)
-
-criminaliteit_amsterdam = right_join(criminaliteit_amsterdam, criminaliteit_buurt_namen_amsterdam, by = c("Codering_3" = "Key"))
-
-View(criminaliteit_amsterdam)
-
-#namen opschonen, bijv. _12 weghalen
-
-colnames(criminaliteit_amsterdam) <- str_replace(colnames(criminaliteit_amsterdam), regex("_[0-9]+"),"")#namen opschonen, hoofdletters en _
-
-criminaliteit_amsterdam <- clean_names(criminaliteit_amsterdam,case= c("snake"))
-criminaliteit_amsterdam <- criminaliteit_amsterdam %>%
-  gather(key = "categorie", value = "waarde", 8:32)
-
-View(criminaliteit_amsterdam)
