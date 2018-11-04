@@ -1,0 +1,665 @@
+jaar,field_name,corr_field,spearman,pearson,S>P
+2014,ipsl_onveiligheids-gevoelens,Ipersonenoverlast,1.6828088242437644e-5,0.025782322948822767,FALSE
+2014,ipsl_onveiligheids-gevoelens,Iverloedering,1.3714002529141567e-6,1.181199227318075e-6,TRUE
+2014,ipsl_onveiligheids-gevoelens,overlastindex,4.157033202112359e-7,9.959625134143835e-4,FALSE
+2014,ipsl_onveiligheids-gevoelens,HICindex,1.2656542480726785e-14,3.4638958368304884e-14,FALSE
+2014,ipsl_onveiligheids-gevoelens,HVCIndex,0.0012021189588946601,0.012674312986785008,FALSE
+2014,ipsl_onveiligheids-gevoelens,criminaliteitsindex,2.292235290468625e-9,4.463791380970861e-8,FALSE
+2014,ipsl_onveiligheids-gevoelens,Slachtof_MEAN,0,0,FALSE
+2014,ipsl_onveiligheids-gevoelens,HoevCrim_MEAN,0,0,FALSE
+2014,ipsl_onveiligheids-gevoelens,VerandCrim_MEAN,0.37391090442427544,0.12330292372077789,TRUE
+2014,ipsl_onveiligheids-gevoelens,OnveiligheidBuurt_MEAN,0,0,FALSE
+2014,ipsl_onveiligheids-gevoelens,OnveiligheidAlgemeen_MEAN,0,0,FALSE
+2014,ipsl_onveiligheids-gevoelens,rapportcijfer_veiligheid_buurt_MEAN,0,0,FALSE
+2014,ipsl_onveiligheids-gevoelens,NietOpen_MEAN,0,0,FALSE
+2014,ipsl_onveiligheids-gevoelens,Omloop_MEAN,0,0,FALSE
+2014,ipsl_onveiligheids-gevoelens,StrLoopt_MEAN,0,0,FALSE
+2014,ipsl_onveiligheids-gevoelens,Alleen_MEAN,0,0,FALSE
+2014,ipsl_onveiligheids-gevoelens,Geen_activieit_avond_MEAN,0,0,FALSE
+2014,ipsl_onveiligheids-gevoelens,niet_alleen_buiten_MEAN,0,0,FALSE
+2014,ipsl_onveiligheids-gevoelens,HoevOverlastBuurt_MEAN,5.3290705182007514e-015,8.881784197001252e-15,FALSE
+2014,ipsl_onveiligheids-gevoelens,VerandOverlastBuurt_MEAN,0.3644626741872803,0.1694122356440948,TRUE
+2014,ipsl_onveiligheids-gevoelens,risicoperceptie,7.349676423018536e-14,4.6629367034256575e-15,TRUE
+2014,ipsl_onveiligheids-gevoelens,onveiligheidsgevoelens,0,0,FALSE
+2014,ipsl_onveiligheids-gevoelens,vermijding,0,0,FALSE
+2014,ipsl_onveiligheids-gevoelens,Rommel_MEAN,1.2249408598563605e-8,3.184611241380253e-9,TRUE
+2014,ipsl_onveiligheids-gevoelens,Verniel_MEAN,0,0,FALSE
+2014,ipsl_onveiligheids-gevoelens,Beklad_MEAN,6.868829595523263e-4,0.001969528307211421,FALSE
+2014,ipsl_onveiligheids-gevoelens,HondPoep_MEAN,0.3416051368295965,0.38204127719660264,FALSE
+2014,ipsl_onveiligheids-gevoelens,onderhoud_straat_MEAN,1.7502339715314008e-6,2.0797956215012903e-6,FALSE
+2014,ipsl_onveiligheids-gevoelens,onderhoud_groen_MEAN,5.629348986957439e-8,8.685817043385669e-8,FALSE
+2014,ipsl_onveiligheids-gevoelens,Dronken_MEAN,0.18683637909651463,0.5834923192143473,FALSE
+2014,ipsl_onveiligheids-gevoelens,Drugs_MEAN,2.259876952237505e-8,2.3247805229775764e-6,FALSE
+2014,ipsl_onveiligheids-gevoelens,Horeca_MEAN,0.26464503463964006,0.8656109514923576,FALSE
+2014,ipsl_onveiligheids-gevoelens,BuurtWon_MEAN,4.618527782440651e-14,1.4566126083082054e-13,FALSE
+2014,ipsl_onveiligheids-gevoelens,LastVal_MEAN,0,2.1760371282653068e-14,FALSE
+2014,ipsl_onveiligheids-gevoelens,Jongeren_MEAN,0,0,FALSE
+2014,ipsl_onveiligheids-gevoelens,verloedering,9.276135415348108e-11,1.0826450846934677e-11,TRUE
+2014,ipsl_onveiligheids-gevoelens,blok_overlast,3.913314117198752e-11,9.840754877643576e-10,FALSE
+2014,ipsl_onveiligheids-gevoelens,diefstal_uit_van_auto_sum,0.0045259761699143475,0.0013542972551239263,TRUE
+2014,ipsl_onveiligheids-gevoelens,autodiefstal_sum,0.01971910435991031,0.0227543650020694,FALSE
+2014,ipsl_onveiligheids-gevoelens,Diefstal_ander_motorvoertuig_sum,0.116617329724233,0.09049924915370577,TRUE
+2014,ipsl_onveiligheids-gevoelens,fietsdiefstal_sum,0.04848827626557051,0.017370741000213297,TRUE
+2014,ipsl_onveiligheids-gevoelens,beroving_sum,0.20252372706994626,0.43694706468499156,FALSE
+2014,ipsl_onveiligheids-gevoelens,zakkenrollerij_sum,0.20252372706994626,0.43694691183891754,FALSE
+2014,ipsl_onveiligheids-gevoelens,mishandeling_sum,0.037515826936576735,0.04023344743783985,FALSE
+2014,ipsl_onveiligheids-gevoelens,bedreiging_sum,0.037515826936576735,0.04023346484841084,FALSE
+2014,ipsl_onveiligheids-gevoelens,sexuele_int_gew_ sum,0.037515826936576735,0.0402333667357504,FALSE
+2014,ipsl_onveiligheids-gevoelens,overige_diefstal_ sum,0.8855706925783138,0.7056189885883544,TRUE
+2014,ipsl_onveiligheids-gevoelens,vernielingen_sum,0.7366922958047659,0.6702587626735237,TRUE
+2014,ipsl_onveiligheids-gevoelens,inbraak_totaal,5.589822156260027e-7,2.739383386796135e-9,TRUE
+2014,ipsl_onveiligheids-gevoelens,brom_snor_samen,0.116617329724233,0.09049924718509383,TRUE
+2014,ipsl_onveiligheids-gevoelens,inbrwoni,2.9672338186514935e-7,3.107063739626881e-8,TRUE
+2014,ipsl_onveiligheids-gevoelens,moorddood,1.3431753224324439e-5,1.4855494740118047e-5,FALSE
+2014,ipsl_onveiligheids-gevoelens,straatro,0.015960014167010428,0.7342284977904501,FALSE
+2014,ipsl_onveiligheids-gevoelens,overval,0.3650930382160418,0.42128488738680403,FALSE
+2014,ipsl_onveiligheids-gevoelens,zeden_incl_ kinderporno,0.03243817109003544,0.20285121221144164,FALSE
+2014,ipsl_onveiligheids-gevoelens,mishand_en_ geweld,8.78311006489163e-5,0.13792825038440615,FALSE
+2014,ipsl_onveiligheids-gevoelens,bedreiging_incl_ chantage,6.427628611582747e-7,9.690123958794317e-7,FALSE
+2014,ipsl_onveiligheids-gevoelens,inbrbox,3.991475240017195e-5,1.807006186593796e-5,TRUE
+2014,ipsl_onveiligheids-gevoelens,uitauto,0.6769497720295985,0.06351742034386576,TRUE
+2014,ipsl_onveiligheids-gevoelens,zakrolexOV,0.8451893783595388,0.2303119308175463,TRUE
+2014,ipsl_onveiligheids-gevoelens,vermogen,0.4898982975053734,0.2214879216503154,TRUE
+2014,ipsl_onveiligheids-gevoelens,inbrbedr,0.2354593387437509,0.12464519519359563,TRUE
+2014,ipsl_onveiligheids-gevoelens,winkel,0.2197699958611954,0.44919571553888127,FALSE
+2014,ipsl_onveiligheids-gevoelens,vanpersauto,0.32996959226969214,0.23499996913164467,TRUE
+2014,ipsl_onveiligheids-gevoelens,fietsdief,1.539057158872481e-5,1.5270614642570735e-5,TRUE
+2014,ipsl_onveiligheids-gevoelens,bromsnorfiets,0.23674798421571497,0.11713828498427592,TRUE
+2014,ipsl_onveiligheids-gevoelens,ovvoert_incl_vracht_vaar_motor,0.06271785379684003,0.04215514765538142,TRUE
+2014,ipsl_onveiligheids-gevoelens,drugs_totaal,0.1248871314780704,0.534542950347233,FALSE
+2014,ipsl_onveiligheids-gevoelens,Boalleprios,0.06352385233872493,0.4512515850746057,FALSE
+2014,ipsl_onveiligheids-gevoelens,Goalleprios,0.40297458868400327,0.1416513463672029,TRUE
+2014,ipsl_onveiligheids-gevoelens,Joalleprios,0.037246786398524634,0.009906706618571626,TRUE
+2014,ipsl_onveiligheids-gevoelens,POalleprios,0.5118311597391492,0.21606653483423277,TRUE
+2014,ipsl_onveiligheids-gevoelens,verniel,0.3335355066036394,0.2966525190833942,TRUE
+2014,ipsl_onveiligheids-gevoelens,won1000,4.440892098500626e-16,5.995204332975845e-15,FALSE
+2014,ipsl_onveiligheids-gevoelens,pinbrwoni,4.440892098500626e-16,5.995204332975845e-15,FALSE
+2014,ipsl_onveiligheids-gevoelens,zed1000,3.01336123829099e-4,6.533797086258897e-4,FALSE
+2014,ipsl_onveiligheids-gevoelens,pzeden_incl_ kinderporno,3.01336123829099e-4,6.533798941195101e-4,FALSE
+2014,ipsl_onveiligheids-gevoelens,moorddood1000,7.807124591252546e-8,4.446274954883478e-7,FALSE
+2014,ipsl_onveiligheids-gevoelens,pmoorddood,7.807124591252546e-8,4.4462171899795067e-7,FALSE
+2014,ipsl_onveiligheids-gevoelens,mishand_en_ geweld1000,5.699885008425554e-13,5.330968261807456e-5,FALSE
+2014,ipsl_onveiligheids-gevoelens,pmishand_en_ geweld,5.699885008425554e-13,5.3309624347575024e-5,FALSE
+2014,ipsl_onveiligheids-gevoelens,bedr1000,0,0,FALSE
+2014,ipsl_onveiligheids-gevoelens,pbedreiging_incl_ chantage,0,0,FALSE
+2014,ipsl_onveiligheids-gevoelens,str1000,0.001610360768319996,0.012606211111235499,FALSE
+2014,ipsl_onveiligheids-gevoelens,pstraatro,0.001610360768319996,0.012606207397300118,FALSE
+2014,ipsl_onveiligheids-gevoelens,ovr1000,0.040714503456944495,0.16839753030801052,FALSE
+2014,ipsl_onveiligheids-gevoelens,poverval,0.040714503456944495,0.1683969223479853,FALSE
+2014,ipsl_onveiligheids-gevoelens,box1000,6.255192770421303e-7,0.05307590496602366,FALSE
+2014,ipsl_onveiligheids-gevoelens,pinbrbox,6.255192770421303e-7,0.05307590393521089,FALSE
+2014,ipsl_onveiligheids-gevoelens,uiau1000,0.9940263302971666,0.6918953382094188,TRUE
+2014,ipsl_onveiligheids-gevoelens,puitauto,0.9940263302971666,0.6918953521660367,TRUE
+2014,ipsl_onveiligheids-gevoelens,vaut1000,0.004467930563905487,0.04735293702354637,FALSE
+2014,ipsl_onveiligheids-gevoelens,pvanpersauto,0.004467930563905487,0.04735295507678616,FALSE
+2014,ipsl_onveiligheids-gevoelens,fiets1000,1.4026292026070308e-5,2.2065354630118605e-6,TRUE
+2014,ipsl_onveiligheids-gevoelens,pfietsdief,1.4026292026070308e-5,2.206534844617636e-6,TRUE
+2014,ipsl_onveiligheids-gevoelens,bromsnor1000,0.9979794776039266,0.9810146974596914,TRUE
+2014,ipsl_onveiligheids-gevoelens,pbromsnorfiets,0.9979794776039266,0.9810148117789865,TRUE
+2014,ipsl_onveiligheids-gevoelens,ovvo1000,0.28185931448829926,0.34309974463778103,FALSE
+2014,ipsl_onveiligheids-gevoelens,povvoert_incl_ vracht_vaar_motor,0.28185931448829926,0.3430999735142555,FALSE
+2014,ipsl_onveiligheids-gevoelens,verm1000,0.7827414358621272,0.18869114980728519,TRUE
+2014,ipsl_onveiligheids-gevoelens,pvermoge,0.7827414358621272,0.1886911459653462,TRUE
+2014,ipsl_onveiligheids-gevoelens,bedrijf1000,0.010191362120263392,0.001260149270348787,TRUE
+2014,ipsl_onveiligheids-gevoelens,pinbrbedr,0.010191362120263392,0.001260149362252161,TRUE
+2014,ipsl_onveiligheids-gevoelens,wink1000,1.8218741017816953e-5,2.8179969957520257e-7,TRUE
+2014,ipsl_onveiligheids-gevoelens,pwinkel,1.8218741017816953e-5,2.81799700463381e-7,TRUE
+2014,ipsl_onveiligheids-gevoelens,zakr1000,0.8549628173652579,0.13017611265599216,TRUE
+2014,ipsl_onveiligheids-gevoelens,pzakrolexOV,0.8549628173652579,0.13017610388220202,TRUE
+2014,ipsl_onveiligheids-gevoelens,personen1000,0.787653609367887,0.5933175756849782,TRUE
+2014,ipsl_onveiligheids-gevoelens,ppersonenov,0.787653609367887,0.5933175716281331,TRUE
+2014,ipsl_onveiligheids-gevoelens,jeugd1000,0.00472208351000214,8.16722246923085e-4,TRUE
+2014,ipsl_onveiligheids-gevoelens,pjeugdov,0.00472208351000214,8.167227194344484e-4,TRUE
+2014,ipsl_onveiligheids-gevoelens,geluid1000,0.8932280791444549,0.4488697425006991,TRUE
+2014,ipsl_onveiligheids-gevoelens,pgeluid,0.8932280791444549,0.44886973773977634,TRUE
+2014,ipsl_onveiligheids-gevoelens,buur1000,0.01216441631935794,0.7143853632320627,FALSE
+2014,ipsl_onveiligheids-gevoelens,pburenov,0.01216441631935794,0.7143853670539402,FALSE
+2014,ipsl_onveiligheids-gevoelens,drugs_totaal1000,0.005411697524708492,0.7387929722972937,FALSE
+2014,ipsl_onveiligheids-gevoelens,pdrugstotaal,0.005411697524708492,0.738792997899363,FALSE
+2014,ipsl_onveiligheids-gevoelens,vern1000,0.0015583163337842265,0.00932926143394619,FALSE
+2014,ipsl_onveiligheids-gevoelens,pverniel,0.0015583163337842265,0.009329260381872206,FALSE
+2014,ipsl_onveiligheids-gevoelens,poverlastmeld,0.036564544636648044,0.7898475322821068,FALSE
+2014,ipsl_onveiligheids-gevoelens,ipsl_verloedering,9.276135415348108e-11,1.0826450846934677e-11,TRUE
+2014,ipsl_onveiligheids-gevoelens,ipsl_blok_overlast,3.913314117198752e-11,9.840759318535675e-10,FALSE
+2014,ipsl_onveiligheids-gevoelens,psl_vernielingen,0.30663362038930764,0.1965571594020732,TRUE
+2014,ipsl_onveiligheids-gevoelens,ipsl_vernielingen_ sum,0.30663362038930764,0.19655716157393854,TRUE
+2014,ipsl_onveiligheids-gevoelens,psl_diefstal_uit_van_auto,1.0901346474412321e-5,5.6498193281351305e-5,FALSE
+2014,ipsl_onveiligheids-gevoelens,psl_autodiefstal,0.017952928183762484,0.0075582322662741674,TRUE
+2014,ipsl_onveiligheids-gevoelens,psl_Diefstal_ander_motorvoertuig,0.06066980757137852,0.042598028107735386,TRUE
+2014,ipsl_onveiligheids-gevoelens,psl_fietsdiefstal,0.08146658535993367,0.03824735753149611,TRUE
+2014,ipsl_onveiligheids-gevoelens,psl_beroving,0.16688667454553752,0.11767929172290703,TRUE
+2014,ipsl_onveiligheids-gevoelens,psl_zakkenrollerij,0.16688667454553752,0.11767889754367333,TRUE
+2014,ipsl_onveiligheids-gevoelens,psl_mishandeling,0.02216287769108094,0.003781211574160892,TRUE
+2014,ipsl_onveiligheids-gevoelens,psl_bedreiging,0.02216287769108094,0.003781208671690628,TRUE
+2014,ipsl_onveiligheids-gevoelens,psl_sexuele_int_ gew,0.02216287769108094,0.003781235995574228,TRUE
+2014,ipsl_onveiligheids-gevoelens,psl_overige_diefstal,0.9873502815569639,0.7256373032282961,TRUE
+2014,ipsl_onveiligheids-gevoelens,psl_inbraak_totaal,1.3430145884285594e-10,2.97983859809392e-13,TRUE
+2014,ipsl_onveiligheids-gevoelens,psl_brom_snor_ samen,0.06066980757137852,0.04259799622157212,TRUE
+2014,ipsl_onveiligheids-gevoelens,ipsl_diefstal_uit_ van_auto,1.0901346474412321e-5,5.649819714204085e-5,FALSE
+2014,ipsl_onveiligheids-gevoelens,ipsl_autodiefstal,0.017952928183762484,0.007558229908060099,TRUE
+2014,ipsl_onveiligheids-gevoelens,ipsl_Diefstal_ander_motorvoertuig,0.06066980757137852,0.042598021175341394,TRUE
+2014,ipsl_onveiligheids-gevoelens,ipsl_fietsdiefstal,0.08146658535993367,0.03824735619510866,TRUE
+2014,ipsl_onveiligheids-gevoelens,ipsl_beroving,0.16688667454553752,0.11767886024299301,TRUE
+2014,ipsl_onveiligheids-gevoelens,ipsl_zakkenrollerij,0.16688667454553752,0.11767886126448013,TRUE
+2014,ipsl_onveiligheids-gevoelens,ipsl_mishandeling,0.02216287769108094,0.0037812087831516905,TRUE
+2014,ipsl_onveiligheids-gevoelens,ipsl_bedreiging,0.02216287769108094,0.003781208651326251,TRUE
+2014,ipsl_onveiligheids-gevoelens,ipsl_sexuele_int_ gew,0.02216287769108094,0.003781208731547636,TRUE
+2014,ipsl_onveiligheids-gevoelens,ipsl_overige_ diefstal,0.9873502815569639,0.7256373047512725,TRUE
+2014,ipsl_onveiligheids-gevoelens,ipsl_vernielingen,0.30663362038930764,0.19655715804389273,TRUE
+2014,ipsl_onveiligheids-gevoelens,ipsl_inbraak_totaal,1.3430145884285594e-10,2.97983859809392e-13,TRUE
+2014,ipsl_onveiligheids-gevoelens,ipsl_brom_snor_ samen,0.06066980757137852,0.042598020544608595,TRUE
+2014,ipsl_onveiligheids-gevoelens,Izeden,4.1269590145276425e-6,5.550353888494897e-6,FALSE
+2014,ipsl_onveiligheids-gevoelens,Imoorddood,7.807124591252546e-8,4.4462171899795067e-7,FALSE
+2014,ipsl_onveiligheids-gevoelens,Ibedreig,1.2878587085651816e-14,1.3322676295501878e-15,TRUE
+2014,ipsl_onveiligheids-gevoelens,Imishandeling_en_ geweld,1.291965645577875e-9,2.294808643554802e-6,FALSE
+2014,ipsl_onveiligheids-gevoelens,Istraatroof,0.004877644670738146,0.010731822920841294,FALSE
+2014,ipsl_onveiligheids-gevoelens,Ioverval,0.040714503456944495,0.1683969223479853,FALSE
+2014,ipsl_onveiligheids-gevoelens,Iinbrwoning,0,0,FALSE
+2014,ipsl_onveiligheids-gevoelens,Iinbrbox,6.255192770421303e-7,0.05307590393521089,FALSE
+2014,ipsl_onveiligheids-gevoelens,Iuitauto,0.3021400762495059,0.39659531150329164,FALSE
+2014,ipsl_onveiligheids-gevoelens,Ivanpersauto,3.139642017062627e-4,0.0030020355593920467,FALSE
+2014,ipsl_onveiligheids-gevoelens,Ifietsdief,5.559910062347129e-4,3.4886385597898695e-5,TRUE
+2014,ipsl_onveiligheids-gevoelens,Ibromsnorfiets,0.38260103789432875,0.36321729995188035,TRUE
+2014,ipsl_onveiligheids-gevoelens,Ioverigvoertuig,0.9502215306946058,0.7992478672005929,TRUE
+2014,ipsl_onveiligheids-gevoelens,Ivermogen,0.6389391695611373,0.2091152724090013,TRUE
+2014,ipsl_onveiligheids-gevoelens,Iinbrbedr,0.010191362120263392,0.001260149362252161,TRUE
+2014,ipsl_onveiligheids-gevoelens,Iwinkel,1.8218741017816953e-5,2.81799700463381e-7,TRUE
+2014,ipsl_onveiligheids-gevoelens,Izakrol,0.6061971404097162,0.2304348587569438,TRUE
+2015,ipsl_onveiligheids-gevoelens,Ipersonenoverlast,1.6715313222448458e-7,0.04320379237647698,FALSE
+2015,ipsl_onveiligheids-gevoelens,Iverloedering,4.625219940379566e-8,1.6118462231595743e-6,FALSE
+2015,ipsl_onveiligheids-gevoelens,overlastindex,2.1369335634346953e-8,0.0039045903289134376,FALSE
+2015,ipsl_onveiligheids-gevoelens,HICindex,2.708944180085382e-14,2.0012658197288147e-11,FALSE
+2015,ipsl_onveiligheids-gevoelens,HVCIndex,7.322566017098353e-6,8.340378863036513e-5,FALSE
+2015,ipsl_onveiligheids-gevoelens,criminaliteitsindex,1.7885692926711272e-12,1.113005687614077e-9,FALSE
+2015,ipsl_onveiligheids-gevoelens,Slachtof_MEAN,0,0,FALSE
+2015,ipsl_onveiligheids-gevoelens,HoevCrim_MEAN,0,0,FALSE
+2015,ipsl_onveiligheids-gevoelens,VerandCrim_MEAN,0.08855808326928538,0.020593635859662562,TRUE
+2015,ipsl_onveiligheids-gevoelens,OnveiligheidBuurt_MEAN,0,0,FALSE
+2015,ipsl_onveiligheids-gevoelens,OnveiligheidAlgemeen_MEAN,0,0,FALSE
+2015,ipsl_onveiligheids-gevoelens,rapportcijfer_veiligheid_buurt_MEAN,0,0,FALSE
+2015,ipsl_onveiligheids-gevoelens,NietOpen_MEAN,0,0,FALSE
+2015,ipsl_onveiligheids-gevoelens,Omloop_MEAN,0,0,FALSE
+2015,ipsl_onveiligheids-gevoelens,StrLoopt_MEAN,0,0,FALSE
+2015,ipsl_onveiligheids-gevoelens,Alleen_MEAN,0,0,FALSE
+2015,ipsl_onveiligheids-gevoelens,Geen_activieit_avond_MEAN,0,0,FALSE
+2015,ipsl_onveiligheids-gevoelens,niet_alleen_buiten_MEAN,0,0,FALSE
+2015,ipsl_onveiligheids-gevoelens,HoevOverlastBuurt_MEAN,0,2.6423307986078726e-13,FALSE
+2015,ipsl_onveiligheids-gevoelens,VerandOverlastBuurt_MEAN,0.5783757389385729,0.5137420977854217,TRUE
+2015,ipsl_onveiligheids-gevoelens,risicoperceptie,3.8191672047105385e-14,3.6215475063272606e-13,FALSE
+2015,ipsl_onveiligheids-gevoelens,onveiligheidsgevoelens,0,0,FALSE
+2015,ipsl_onveiligheids-gevoelens,vermijding,0,0,FALSE
+2015,ipsl_onveiligheids-gevoelens,Rommel_MEAN,6.293909950993992e-7,3.29132104681662e-7,TRUE
+2015,ipsl_onveiligheids-gevoelens,Verniel_MEAN,0,0,FALSE
+2015,ipsl_onveiligheids-gevoelens,Beklad_MEAN,6.059499599864182e-7,1.8185118409785872e-5,FALSE
+2015,ipsl_onveiligheids-gevoelens,HondPoep_MEAN,0.17741398584850732,0.16591473331775086,TRUE
+2015,ipsl_onveiligheids-gevoelens,onderhoud_straat_MEAN,8.159764011494985e-4,9.285234761984285e-4,FALSE
+2015,ipsl_onveiligheids-gevoelens,onderhoud_groen_MEAN,1.3973804922073896e-6,6.388396847079036e-7,TRUE
+2015,ipsl_onveiligheids-gevoelens,Dronken_MEAN,0.05496042898867137,0.8560127604963081,FALSE
+2015,ipsl_onveiligheids-gevoelens,Drugs_MEAN,6.359998483418394e-8,1.8220321555628693e-4,FALSE
+2015,ipsl_onveiligheids-gevoelens,Horeca_MEAN,0.15880180191405802,0.741301701004178,FALSE
+2015,ipsl_onveiligheids-gevoelens,BuurtWon_MEAN,0,8.881784197001252e-16,FALSE
+2015,ipsl_onveiligheids-gevoelens,LastVal_MEAN,0,1.8621104658222976e-11,FALSE
+2015,ipsl_onveiligheids-gevoelens,Jongeren_MEAN,0,0,FALSE
+2015,ipsl_onveiligheids-gevoelens,verloedering,5.3967212920724705e-9,8.137726048573768e-10,TRUE
+2015,ipsl_onveiligheids-gevoelens,blok_overlast,3.467004461299439e-12,3.7246876249952265e-8,FALSE
+2015,ipsl_onveiligheids-gevoelens,diefstal_uit_van_auto_sum,1.5328072630005352e-4,3.3130219105892422e-6,TRUE
+2015,ipsl_onveiligheids-gevoelens,autodiefstal_sum,0.0026166406545784504,0.009370189574049004,FALSE
+2015,ipsl_onveiligheids-gevoelens,Diefstal_ander_motorvoertuig_sum,0.032930342601782625,0.03934420501149316,FALSE
+2015,ipsl_onveiligheids-gevoelens,fietsdiefstal_sum,0.5094990887713706,0.21960317973207832,TRUE
+2015,ipsl_onveiligheids-gevoelens,beroving_sum,0.8303754663663501,0.990745216086178,FALSE
+2015,ipsl_onveiligheids-gevoelens,zakkenrollerij_sum,0.8243626341125163,0.9870017052209479,FALSE
+2015,ipsl_onveiligheids-gevoelens,mishandeling_sum,0.0028941020469046563,7.188508705915364e-4,TRUE
+2015,ipsl_onveiligheids-gevoelens,bedreiging_sum,0.002929302203900974,7.305671860931007e-4,TRUE
+2015,ipsl_onveiligheids-gevoelens,sexuele_int_gew_ sum,0.0027171363184881336,6.86192161450272e-4,TRUE
+2015,ipsl_onveiligheids-gevoelens,overige_diefstal_ sum,0.9022990162784188,0.5791401911436511,TRUE
+2015,ipsl_onveiligheids-gevoelens,vernielingen_sum,0.7428458308375594,0.5143738272607103,TRUE
+2015,ipsl_onveiligheids-gevoelens,inbraak_totaal,1.0853655907361315e-5,2.5941093717563035e-9,TRUE
+2015,ipsl_onveiligheids-gevoelens,brom_snor_samen,0.032988731009446326,0.039324328534030784,FALSE
+2015,ipsl_onveiligheids-gevoelens,inbrwoni,1.9909151957264726e-5,6.159695658869424e-6,TRUE
+2015,ipsl_onveiligheids-gevoelens,moorddood,4.920960889842618e-5,1.8032540447721068e-4,FALSE
+2015,ipsl_onveiligheids-gevoelens,straatro,0.007739083189334028,0.9949517040144351,FALSE
+2015,ipsl_onveiligheids-gevoelens,overval,0.09791489726313185,0.022750675705670353,TRUE
+2015,ipsl_onveiligheids-gevoelens,zeden_incl_ kinderporno,0.0550712406890872,0.8167852924364611,FALSE
+2015,ipsl_onveiligheids-gevoelens,mishand_en_ geweld,3.9485225712554417e-4,0.26082552104152734,FALSE
+2015,ipsl_onveiligheids-gevoelens,bedreiging_incl_ chantage,1.0912003516327928e-5,7.060797948788e-5,FALSE
+2015,ipsl_onveiligheids-gevoelens,inbrbox,8.151593898553244e-6,1.1501519070478139e-7,TRUE
+2015,ipsl_onveiligheids-gevoelens,uitauto,0.6115218803441511,0.15047557799022204,TRUE
+2015,ipsl_onveiligheids-gevoelens,zakrolexOV,0.8730069497388291,0.26545825602012885,TRUE
+2015,ipsl_onveiligheids-gevoelens,vermogen,0.8041785920785132,0.2742498559904394,TRUE
+2015,ipsl_onveiligheids-gevoelens,inbrbedr,0.8010116200318735,0.2424754012049668,TRUE
+2015,ipsl_onveiligheids-gevoelens,winkel,0.44899349903393526,0.7559558919826532,FALSE
+2015,ipsl_onveiligheids-gevoelens,vanpersauto,0.14105963798100207,0.003746574398831637,TRUE
+2015,ipsl_onveiligheids-gevoelens,fietsdief,0.002372408355306943,3.4127132878536415e-4,TRUE
+2015,ipsl_onveiligheids-gevoelens,bromsnorfiets,0.04338948152393307,0.0989873087170785,FALSE
+2015,ipsl_onveiligheids-gevoelens,ovvoert_incl_vracht_vaar_motor,0.6137527578226631,0.7656799091938722,FALSE
+2015,ipsl_onveiligheids-gevoelens,drugs_totaal,0.05280152440476771,0.626670113548857,FALSE
+2015,ipsl_onveiligheids-gevoelens,Boalleprios,0.010747765266377218,0.43095466293665297,FALSE
+2015,ipsl_onveiligheids-gevoelens,Goalleprios,0.5352645123530071,0.10665917349371101,TRUE
+2015,ipsl_onveiligheids-gevoelens,Joalleprios,5.546033075174428e-4,9.703280689481453e-4,FALSE
+2015,ipsl_onveiligheids-gevoelens,POalleprios,0.6532764708763112,0.16623666424868722,TRUE
+2015,ipsl_onveiligheids-gevoelens,verniel,0.0798384180012286,0.15188681284826133,FALSE
+2015,ipsl_onveiligheids-gevoelens,won1000,2.1455726084695925e-11,1.8244161736902242e-10,FALSE
+2015,ipsl_onveiligheids-gevoelens,pinbrwoni,2.1106671965753776e-11,1.8318813133078038e-10,FALSE
+2015,ipsl_onveiligheids-gevoelens,zed1000,4.3203550880921426e-4,0.008019945315689725,FALSE
+2015,ipsl_onveiligheids-gevoelens,pzeden_incl_ kinderporno,4.373678295146455e-4,0.007692383934622349,FALSE
+2015,ipsl_onveiligheids-gevoelens,moorddood1000,2.2384205089487352e-7,8.559776827343768e-6,FALSE
+2015,ipsl_onveiligheids-gevoelens,pmoorddood,2.2044212188987444e-7,8.064753165282212e-6,FALSE
+2015,ipsl_onveiligheids-gevoelens,mishand_en_ geweld1000,3.9968028886505635e-15,1.278650514828783e-4,FALSE
+2015,ipsl_onveiligheids-gevoelens,pmishand_en_ geweld,4.440892098500626e-15,1.296121668517003e-4,FALSE
+2015,ipsl_onveiligheids-gevoelens,bedr1000,1.6635581800983346e-12,3.405427051461629e-10,FALSE
+2015,ipsl_onveiligheids-gevoelens,pbedreiging_incl_ chantage,1.6484591469634324e-12,3.3669045329531855e-10,FALSE
+2015,ipsl_onveiligheids-gevoelens,str1000,4.189574125268436e-4,0.042712889100864126,FALSE
+2015,ipsl_onveiligheids-gevoelens,pstraatro,4.220401680870012e-4,0.042507352634193474,FALSE
+2015,ipsl_onveiligheids-gevoelens,ovr1000,0.022651016194841667,0.0030812586911510564,TRUE
+2015,ipsl_onveiligheids-gevoelens,poverval,0.02429800405913074,0.003299738266195451,TRUE
+2015,ipsl_onveiligheids-gevoelens,box1000,8.152768327107651e-8,1.6832708182579204e-4,FALSE
+2015,ipsl_onveiligheids-gevoelens,pinbrbox,7.786266031928335e-8,1.6528631788426118e-4,FALSE
+2015,ipsl_onveiligheids-gevoelens,uiau1000,0.6331456158827722,0.8330743144964521,FALSE
+2015,ipsl_onveiligheids-gevoelens,puitauto,0.6326127293553199,0.8341628370838523,FALSE
+2015,ipsl_onveiligheids-gevoelens,vaut1000,0.031544130224079314,0.002537518870868505,TRUE
+2015,ipsl_onveiligheids-gevoelens,pvanpersauto,0.02846315948624989,0.002516693971540196,TRUE
+2015,ipsl_onveiligheids-gevoelens,fiets1000,0.003796283335418593,5.460798773748721e-5,TRUE
+2015,ipsl_onveiligheids-gevoelens,pfietsdief,0.0037012329829289037,5.440176850890488e-5,TRUE
+2015,ipsl_onveiligheids-gevoelens,bromsnor1000,2.9751853665915817e-4,2.720530322033454e-4,TRUE
+2015,ipsl_onveiligheids-gevoelens,pbromsnorfiets,2.9139324985516524e-4,2.706080375491915e-4,TRUE
+2015,ipsl_onveiligheids-gevoelens,ovvo1000,0.06773209723366058,0.03752725415924907,TRUE
+2015,ipsl_onveiligheids-gevoelens,povvoert_incl_ vracht_vaar_motor,0.06648149669317949,0.03829061258467292,TRUE
+2015,ipsl_onveiligheids-gevoelens,verm1000,0.9578234645697212,0.2530816831793903,TRUE
+2015,ipsl_onveiligheids-gevoelens,pvermoge,0.9591088611903564,0.25320989175464215,TRUE
+2015,ipsl_onveiligheids-gevoelens,bedrijf1000,4.0777893037802215e-6,1.985232888241928e-4,FALSE
+2015,ipsl_onveiligheids-gevoelens,pinbrbedr,4.0777893037802215e-6,1.989923984013764e-4,FALSE
+2015,ipsl_onveiligheids-gevoelens,wink1000,5.628810390354566e-4,1.763234882627973e-4,TRUE
+2015,ipsl_onveiligheids-gevoelens,pwinkel,5.628810390354566e-4,1.7632221870877984e-4,TRUE
+2015,ipsl_onveiligheids-gevoelens,zakr1000,0.9534103767924422,0.19783855249460847,TRUE
+2015,ipsl_onveiligheids-gevoelens,pzakrolexOV,0.9547833425952721,0.19784184607362,TRUE
+2015,ipsl_onveiligheids-gevoelens,personen1000,0.9843919263580141,0.4156006440608435,TRUE
+2015,ipsl_onveiligheids-gevoelens,ppersonenov,0.9888083340449763,0.41563376507880623,TRUE
+2015,ipsl_onveiligheids-gevoelens,jeugd1000,2.225762282925814e-6,1.2420707694360544e-5,FALSE
+2015,ipsl_onveiligheids-gevoelens,pjeugdov,2.1459201542395334e-6,1.25087451872119e-5,FALSE
+2015,ipsl_onveiligheids-gevoelens,geluid1000,0.7707795619223679,0.1933439372064214,TRUE
+2015,ipsl_onveiligheids-gevoelens,pgeluid,0.7721805633483054,0.19323221187820439,TRUE
+2015,ipsl_onveiligheids-gevoelens,buur1000,8.90214432873071e-4,0.8744602350534976,FALSE
+2015,ipsl_onveiligheids-gevoelens,pburenov,8.74665972623978e-4,0.8743959875186673,FALSE
+2015,ipsl_onveiligheids-gevoelens,drugs_totaal1000,0.002059845557223383,0.45293320653576963,FALSE
+2015,ipsl_onveiligheids-gevoelens,pdrugstotaal,0.0019887148761386086,0.45250255233690506,FALSE
+2015,ipsl_onveiligheids-gevoelens,vern1000,7.029158764826349e-5,3.6780466111885346e-4,FALSE
+2015,ipsl_onveiligheids-gevoelens,pverniel,6.718817338491334e-5,3.710392299169918e-4,FALSE
+2015,ipsl_onveiligheids-gevoelens,poverlastmeld,0.005768335481173281,0.8859725983278555,FALSE
+2015,ipsl_onveiligheids-gevoelens,ipsl_verloedering,5.5162994172519575e-9,8.207019508432722e-10,TRUE
+2015,ipsl_onveiligheids-gevoelens,ipsl_blok_overlast,3.5083047578154947e-12,3.718306951228101e-8,FALSE
+2015,ipsl_onveiligheids-gevoelens,psl_vernielingen,0.5952442692219382,0.6828771693106426,FALSE
+2015,ipsl_onveiligheids-gevoelens,ipsl_vernielingen_ sum,0.5952442692219382,0.6828635007166577,FALSE
+2015,ipsl_onveiligheids-gevoelens,psl_diefstal_uit_van_auto,2.5728550001602457e-7,6.687671749716628e-9,TRUE
+2015,ipsl_onveiligheids-gevoelens,psl_autodiefstal,0.0015159083186497835,0.0035139776024326608,FALSE
+2015,ipsl_onveiligheids-gevoelens,psl_Diefstal_ander_motorvoertuig,0.046283377139827664,0.03687184476638006,TRUE
+2015,ipsl_onveiligheids-gevoelens,psl_fietsdiefstal,0.6054597719490062,0.22400718393481522,TRUE
+2015,ipsl_onveiligheids-gevoelens,psl_beroving,0.5179861797664982,0.7607472169934852,FALSE
+2015,ipsl_onveiligheids-gevoelens,psl_zakkenrollerij,0.499197307419851,0.7530382900015888,FALSE
+2015,ipsl_onveiligheids-gevoelens,psl_mishandeling,2.5961717925238048e-5,0.0010980594366383212,FALSE
+2015,ipsl_onveiligheids-gevoelens,psl_bedreiging,2.5784226494129925e-5,0.0010760642868419268,FALSE
+2015,ipsl_onveiligheids-gevoelens,psl_sexuele_int_ gew,2.7627799568996636e-5,0.001113867878317798,FALSE
+2015,ipsl_onveiligheids-gevoelens,psl_overige_diefstal,0.8439770191493756,0.7963888995876747,TRUE
+2015,ipsl_onveiligheids-gevoelens,psl_inbraak_totaal,5.198060062383547e-7,4.7406079062284334e-11,TRUE
+2015,ipsl_onveiligheids-gevoelens,psl_brom_snor_ samen,0.047583972436252786,0.03720035649964393,TRUE
+2015,ipsl_onveiligheids-gevoelens,ipsl_diefstal_uit_ van_auto,2.620876089487467e-7,6.674798491701495e-9,TRUE
+2015,ipsl_onveiligheids-gevoelens,ipsl_autodiefstal,0.001555118693631563,0.0034914851469605157,FALSE
+2015,ipsl_onveiligheids-gevoelens,ipsl_Diefstal_ander_motorvoertuig,0.04562249596796297,0.036751828525269925,TRUE
+2015,ipsl_onveiligheids-gevoelens,ipsl_fietsdiefstal,0.6078412018323902,0.22471998502411328,TRUE
+2015,ipsl_onveiligheids-gevoelens,ipsl_beroving,0.5036410445661452,0.7533558114817169,FALSE
+2015,ipsl_onveiligheids-gevoelens,ipsl_zakkenrollerij,0.5036410445661452,0.753370959598743,FALSE
+2015,ipsl_onveiligheids-gevoelens,ipsl_mishandeling,2.527846947097956e-5,0.0010823120515588425,FALSE
+2015,ipsl_onveiligheids-gevoelens,ipsl_bedreiging,2.527846947097956e-5,0.0010821828548581713,FALSE
+2015,ipsl_onveiligheids-gevoelens,ipsl_sexuele_int_ gew,2.527846947097956e-5,0.0010821744305538061,FALSE
+2015,ipsl_onveiligheids-gevoelens,ipsl_overige_ diefstal,0.855505184602217,0.7961858015272196,TRUE
+2015,ipsl_onveiligheids-gevoelens,ipsl_vernielingen,0.5952442692219382,0.6828635007166577,FALSE
+2015,ipsl_onveiligheids-gevoelens,ipsl_inbraak_totaal,5.316676707778356e-7,4.779066031801449e-11,TRUE
+2015,ipsl_onveiligheids-gevoelens,ipsl_brom_snor_ samen,0.04562249596796297,0.03675354227032601,TRUE
+2015,ipsl_onveiligheids-gevoelens,Izeden,3.5853998086032846e-6,7.287444446779645e-5,FALSE
+2015,ipsl_onveiligheids-gevoelens,Imoorddood,2.2044212188987444e-7,8.064753165282212e-6,FALSE
+2015,ipsl_onveiligheids-gevoelens,Ibedreig,9.769962616701378e-15,3.983924301564912e-12,FALSE
+2015,ipsl_onveiligheids-gevoelens,Imishandeling_en_ geweld,3.9968028886505635e-14,4.230525723292189e-6,FALSE
+2015,ipsl_onveiligheids-gevoelens,Istraatroof,0.006056606750859617,0.09711055613737463,FALSE
+2015,ipsl_onveiligheids-gevoelens,Ioverval,0.02429800405913074,0.003299738266195451,TRUE
+2015,ipsl_onveiligheids-gevoelens,Iinbrwoning,5.158096172408477e-13,2.4646951146678475e-14,TRUE
+2015,ipsl_onveiligheids-gevoelens,Iinbrbox,7.786266031928335e-8,1.6528631788426118e-4,FALSE
+2015,ipsl_onveiligheids-gevoelens,Iuitauto,0.029200800761590928,0.07572820226398536,FALSE
+2015,ipsl_onveiligheids-gevoelens,Ivanpersauto,0.0014516198797740465,1.1191880080008154e-4,TRUE
+2015,ipsl_onveiligheids-gevoelens,Ifietsdief,0.005405444110599955,7.566983126583438e-5,TRUE
+2015,ipsl_onveiligheids-gevoelens,Ibromsnorfiets,1.8063440994220414e-4,1.4324224234485428e-4,TRUE
+2015,ipsl_onveiligheids-gevoelens,Ioverigvoertuig,0.003861777190604432,0.004609644397496115,FALSE
+2015,ipsl_onveiligheids-gevoelens,Ivermogen,0.8013395198350295,0.3357126460742985,TRUE
+2015,ipsl_onveiligheids-gevoelens,Iinbrbedr,4.0777893037802215e-6,1.989923984013764e-4,FALSE
+2015,ipsl_onveiligheids-gevoelens,Iwinkel,5.628810390354566e-4,1.7632221870877984e-4,TRUE
+2015,ipsl_onveiligheids-gevoelens,Izakrol,0.8915837559558668,0.24665880333888435,TRUE
+2016,ipsl_onveiligheids-gevoelens,Ipersonenoverlast,3.2705345457895163e-4,0.19981118428334743,FALSE
+2016,ipsl_onveiligheids-gevoelens,Iverloedering,4.89481646104295e-7,7.298602608951654e-6,FALSE
+2016,ipsl_onveiligheids-gevoelens,overlastindex,4.525028600488312e-6,0.034067212225677546,FALSE
+2016,ipsl_onveiligheids-gevoelens,HICindex,5.3290705182007514e-015,8.875122858853501e-13,FALSE
+2016,ipsl_onveiligheids-gevoelens,HVCIndex,2.3321596475245343e-4,6.896748171068001e-4,FALSE
+2016,ipsl_onveiligheids-gevoelens,criminaliteitsindex,4.407136877659923e-10,1.549546624346476e-8,FALSE
+2016,ipsl_onveiligheids-gevoelens,Slachtof_MEAN,0,0,FALSE
+2016,ipsl_onveiligheids-gevoelens,HoevCrim_MEAN,0,0,FALSE
+2016,ipsl_onveiligheids-gevoelens,VerandCrim_MEAN,0.9050804758474429,0.8763023281208695,TRUE
+2016,ipsl_onveiligheids-gevoelens,OnveiligheidBuurt_MEAN,0,0,FALSE
+2016,ipsl_onveiligheids-gevoelens,OnveiligheidAlgemeen_MEAN,0,0,FALSE
+2016,ipsl_onveiligheids-gevoelens,rapportcijfer_veiligheid_buurt_MEAN,0,0,FALSE
+2016,ipsl_onveiligheids-gevoelens,NietOpen_MEAN,0,0,FALSE
+2016,ipsl_onveiligheids-gevoelens,Omloop_MEAN,0,0,FALSE
+2016,ipsl_onveiligheids-gevoelens,StrLoopt_MEAN,0,0,FALSE
+2016,ipsl_onveiligheids-gevoelens,Alleen_MEAN,0,0,FALSE
+2016,ipsl_onveiligheids-gevoelens,Geen_activieit_avond_MEAN,0,0,FALSE
+2016,ipsl_onveiligheids-gevoelens,niet_alleen_buiten_MEAN,0,0,FALSE
+2016,ipsl_onveiligheids-gevoelens,HoevOverlastBuurt_MEAN,8.659739592076221e-15,6.333156221671743e-12,FALSE
+2016,ipsl_onveiligheids-gevoelens,VerandOverlastBuurt_MEAN,0.27621705604520996,0.21607167495116775,TRUE
+2016,ipsl_onveiligheids-gevoelens,risicoperceptie,2.3642421353997634e-11,8.159175557409526e-10,FALSE
+2016,ipsl_onveiligheids-gevoelens,onveiligheidsgevoelens,0,0,FALSE
+2016,ipsl_onveiligheids-gevoelens,vermijding,0,0,FALSE
+2016,ipsl_onveiligheids-gevoelens,Rommel_MEAN,8.128678514740528e-7,3.596991535292915e-6,FALSE
+2016,ipsl_onveiligheids-gevoelens,Verniel_MEAN,0,0,FALSE
+2016,ipsl_onveiligheids-gevoelens,Beklad_MEAN,1.725251050754828e-5,7.417213165394898e-5,FALSE
+2016,ipsl_onveiligheids-gevoelens,HondPoep_MEAN,0.4195408982274842,0.3254066874169994,TRUE
+2016,ipsl_onveiligheids-gevoelens,onderhoud_straat_MEAN,5.510188196944377e-5,3.848518994671313e-4,FALSE
+2016,ipsl_onveiligheids-gevoelens,onderhoud_groen_MEAN,1.0441043141184991e-7,3.5752074527550803e-6,FALSE
+2016,ipsl_onveiligheids-gevoelens,Dronken_MEAN,0.4540922376819414,0.8399237739346106,FALSE
+2016,ipsl_onveiligheids-gevoelens,Drugs_MEAN,1.8584493162165927e-6,3.5732424007517416e-4,FALSE
+2016,ipsl_onveiligheids-gevoelens,Horeca_MEAN,0.6204693386597047,0.25965605157325866,TRUE
+2016,ipsl_onveiligheids-gevoelens,BuurtWon_MEAN,0,0,FALSE
+2016,ipsl_onveiligheids-gevoelens,LastVal_MEAN,6.217248937900877e-15,8.097877923773922e-11,FALSE
+2016,ipsl_onveiligheids-gevoelens,Jongeren_MEAN,0,0,FALSE
+2016,ipsl_onveiligheids-gevoelens,verloedering,2.85280687961631e-10,1.359101275966168e-9,FALSE
+2016,ipsl_onveiligheids-gevoelens,blok_overlast,5.603959518651891e-9,8.676296123777405e-7,FALSE
+2016,ipsl_onveiligheids-gevoelens,diefstal_uit_van_auto_sum,0.0013359319308130502,2.6739687704502302e-5,TRUE
+2016,ipsl_onveiligheids-gevoelens,autodiefstal_sum,0.0030594192961252986,3.872436424678938e-5,TRUE
+2016,ipsl_onveiligheids-gevoelens,Diefstal_ander_motorvoertuig_sum,7.033970751413321e-5,5.799724139610163e-6,TRUE
+2016,ipsl_onveiligheids-gevoelens,fietsdiefstal_sum,0.1633444422949455,0.07222670571930223,TRUE
+2016,ipsl_onveiligheids-gevoelens,beroving_sum,0.07568177702905121,0.037546826187296434,TRUE
+2016,ipsl_onveiligheids-gevoelens,zakkenrollerij_sum,0.07908675117184027,0.0454974146730156,TRUE
+2016,ipsl_onveiligheids-gevoelens,mishandeling_sum,0.013064866940165176,0.007942130732729646,TRUE
+2016,ipsl_onveiligheids-gevoelens,bedreiging_sum,0.006714309824099596,0.003596307990933134,TRUE
+2016,ipsl_onveiligheids-gevoelens,sexuele_int_gew_ sum,0.01592912474803776,0.00487040176225495,TRUE
+2016,ipsl_onveiligheids-gevoelens,overige_diefstal_ sum,0.639152430674599,0.9411029202022756,FALSE
+2016,ipsl_onveiligheids-gevoelens,vernielingen_sum,0.26455199418997344,0.45232726668927903,FALSE
+2016,ipsl_onveiligheids-gevoelens,inbraak_totaal,1.3186740588366774e-10,2.372098073522011e-10,FALSE
+2016,ipsl_onveiligheids-gevoelens,brom_snor_samen,6.739178672288126e-5,4.694773763302962e-6,TRUE
+2016,ipsl_onveiligheids-gevoelens,inbrwoni,1.4883326611592196e-5,2.6232482490673448e-6,TRUE
+2016,ipsl_onveiligheids-gevoelens,moorddood,0.011405531723339024,0.02025481260333417,FALSE
+2016,ipsl_onveiligheids-gevoelens,straatro,3.448000829406883e-4,0.24883758620491236,FALSE
+2016,ipsl_onveiligheids-gevoelens,overval,7.665057477623805e-9,6.351462467080182e-9,TRUE
+2016,ipsl_onveiligheids-gevoelens,zeden_incl_ kinderporno,0.3768809451779358,0.9554786653235359,FALSE
+2016,ipsl_onveiligheids-gevoelens,mishand_en_ geweld,3.0690898933150024e-5,0.26703464792958886,FALSE
+2016,ipsl_onveiligheids-gevoelens,bedreiging_incl_ chantage,1.0096334035480936e-7,5.703366632303641e-7,FALSE
+2016,ipsl_onveiligheids-gevoelens,inbrbox,9.235572084875798e-8,7.1651098263458834e-6,FALSE
+2016,ipsl_onveiligheids-gevoelens,uitauto,0.8447337495011535,0.1864147738252162,TRUE
+2016,ipsl_onveiligheids-gevoelens,zakrolexOV,0.9621353873733836,0.3712080354557552,TRUE
+2016,ipsl_onveiligheids-gevoelens,vermogen,0.8523068204667787,0.2977227135216982,TRUE
+2016,ipsl_onveiligheids-gevoelens,inbrbedr,0.27223019767369383,0.06377841296567976,TRUE
+2016,ipsl_onveiligheids-gevoelens,winkel,0.561594564123681,0.7722488584966829,FALSE
+2016,ipsl_onveiligheids-gevoelens,vanpersauto,0.21615862397217978,0.004934253182193427,TRUE
+2016,ipsl_onveiligheids-gevoelens,fietsdief,5.525801270511721e-5,1.2097166740776544e-4,FALSE
+2016,ipsl_onveiligheids-gevoelens,bromsnorfiets,0.025726410851881987,0.006444775270770142,TRUE
+2016,ipsl_onveiligheids-gevoelens,ovvoert_incl_vracht_vaar_motor,0.8716930493396398,0.9875218935441454,FALSE
+2016,ipsl_onveiligheids-gevoelens,drugs_totaal,0.15581114778949567,0.6344952944784217,FALSE
+2016,ipsl_onveiligheids-gevoelens,Boalleprios,0.00198625571489508,0.23578759171370267,FALSE
+2016,ipsl_onveiligheids-gevoelens,Goalleprios,0.9003812874419932,0.33857711157322923,TRUE
+2016,ipsl_onveiligheids-gevoelens,Joalleprios,1.3501501804169536e-4,4.7664940834413194e-4,FALSE
+2016,ipsl_onveiligheids-gevoelens,POalleprios,0.5315413599554781,0.1738213961132693,TRUE
+2016,ipsl_onveiligheids-gevoelens,verniel,0.028328586046081572,0.10171343606005112,FALSE
+2016,ipsl_onveiligheids-gevoelens,won1000,1.51299239803393e-9,2.8565877885355917e-8,FALSE
+2016,ipsl_onveiligheids-gevoelens,pinbrwoni,1.6588912465920203e-9,2.863081705051229e-8,FALSE
+2016,ipsl_onveiligheids-gevoelens,zed1000,0.042668498826235135,0.049033274179097086,FALSE
+2016,ipsl_onveiligheids-gevoelens,pzeden_incl_ kinderporno,0.03961680241988841,0.04859150423150305,FALSE
+2016,ipsl_onveiligheids-gevoelens,moorddood1000,1.9317540267760336e-4,6.40580572534688e-4,FALSE
+2016,ipsl_onveiligheids-gevoelens,pmoorddood,1.8177342546543684e-4,6.512643067044799e-4,FALSE
+2016,ipsl_onveiligheids-gevoelens,mishand_en_ geweld1000,2.790758735216059e-10,0.0019572125070155266,FALSE
+2016,ipsl_onveiligheids-gevoelens,pmishand_en_ geweld,3.0847213672302587e-10,0.0019714345163925895,FALSE
+2016,ipsl_onveiligheids-gevoelens,bedr1000,0,4.440892098500626e-16,FALSE
+2016,ipsl_onveiligheids-gevoelens,pbedreiging_incl_ chantage,0,4.440892098500626e-16,FALSE
+2016,ipsl_onveiligheids-gevoelens,str1000,4.1209268650810316e-6,0.0015090014132130847,FALSE
+2016,ipsl_onveiligheids-gevoelens,pstraatro,3.7931709340188746e-6,0.0015374514825832186,FALSE
+2016,ipsl_onveiligheids-gevoelens,ovr1000,2.343358840306564e-9,1.2679688126127076e-6,FALSE
+2016,ipsl_onveiligheids-gevoelens,poverval,2.4328576930798818e-9,1.28513203012659e-6,FALSE
+2016,ipsl_onveiligheids-gevoelens,box1000,1.91395750581691e-7,7.078666685012003e-5,FALSE
+2016,ipsl_onveiligheids-gevoelens,pinbrbox,1.909559745882916e-7,7.10570031212665e-5,FALSE
+2016,ipsl_onveiligheids-gevoelens,uiau1000,0.8008821003200313,0.5487670919777914,TRUE
+2016,ipsl_onveiligheids-gevoelens,puitauto,0.8023057749895837,0.5495521128254692,TRUE
+2016,ipsl_onveiligheids-gevoelens,vaut1000,0.02825306225272728,0.0025166083698913155,TRUE
+2016,ipsl_onveiligheids-gevoelens,pvanpersauto,0.028868549765096674,0.0025959887325033293,TRUE
+2016,ipsl_onveiligheids-gevoelens,fiets1000,4.088404972524273e-5,6.619627988424526e-6,TRUE
+2016,ipsl_onveiligheids-gevoelens,pfietsdief,4.074138964860197e-5,6.6023336757758955e-6,TRUE
+2016,ipsl_onveiligheids-gevoelens,bromsnor1000,1.2846871016103378e-4,1.0684340039124329e-4,TRUE
+2016,ipsl_onveiligheids-gevoelens,pbromsnorfiets,1.2712739560294395e-4,1.0711942798291574e-4,TRUE
+2016,ipsl_onveiligheids-gevoelens,ovvo1000,0.20783508268465023,0.1910804853815593,TRUE
+2016,ipsl_onveiligheids-gevoelens,povvoert_incl_ vracht_vaar_motor,0.21064871276421404,0.18959277861684432,TRUE
+2016,ipsl_onveiligheids-gevoelens,verm1000,0.9921698119498363,0.2621217460471146,TRUE
+2016,ipsl_onveiligheids-gevoelens,pvermoge,0.9899508980559699,0.2621104537953425,TRUE
+2016,ipsl_onveiligheids-gevoelens,bedrijf1000,0.003068716944367722,0.005753814772035959,FALSE
+2016,ipsl_onveiligheids-gevoelens,pinbrbedr,0.003068716944367722,0.005756053666229111,FALSE
+2016,ipsl_onveiligheids-gevoelens,wink1000,0.00493741921209967,8.091409338786271e-4,TRUE
+2016,ipsl_onveiligheids-gevoelens,pwinkel,0.00493741921209967,8.091278474879893e-4,TRUE
+2016,ipsl_onveiligheids-gevoelens,zakr1000,0.8445757442000033,0.32529698990965406,TRUE
+2016,ipsl_onveiligheids-gevoelens,pzakrolexOV,0.8409293267281459,0.3250639189783926,TRUE
+2016,ipsl_onveiligheids-gevoelens,personen1000,0.2827395923643581,0.2916152800818024,FALSE
+2016,ipsl_onveiligheids-gevoelens,ppersonenov,0.2780279445003999,0.2915931229571669,FALSE
+2016,ipsl_onveiligheids-gevoelens,jeugd1000,3.3230421818242206e-5,0.0017435310371234358,FALSE
+2016,ipsl_onveiligheids-gevoelens,pjeugdov,3.2963193312474104e-5,0.0017407868349621491,FALSE
+2016,ipsl_onveiligheids-gevoelens,geluid1000,0.4811863162274146,0.290565040486658,TRUE
+2016,ipsl_onveiligheids-gevoelens,pgeluid,0.48014215065543775,0.29054064317962847,TRUE
+2016,ipsl_onveiligheids-gevoelens,buur1000,0.027105808140037935,0.8956412885580525,FALSE
+2016,ipsl_onveiligheids-gevoelens,pburenov,0.026927550180487536,0.8956757983788757,FALSE
+2016,ipsl_onveiligheids-gevoelens,drugs_totaal1000,0.03250471810568878,0.8855004859489413,FALSE
+2016,ipsl_onveiligheids-gevoelens,pdrugstotaal,0.03234121846310045,0.886900445760803,FALSE
+2016,ipsl_onveiligheids-gevoelens,vern1000,3.4075811889522356e-5,9.166685331496449e-4,FALSE
+2016,ipsl_onveiligheids-gevoelens,pverniel,3.2310119273848414e-5,9.25092982233533e-4,FALSE
+2016,ipsl_onveiligheids-gevoelens,poverlastmeld,0.1318052530544942,0.8196061776214925,FALSE
+2016,ipsl_onveiligheids-gevoelens,ipsl_verloedering,7.717544381335983e-10,2.0721133697776395e-9,FALSE
+2016,ipsl_onveiligheids-gevoelens,ipsl_blok_overlast,1.0304159747676067e-8,1.146036169519249e-6,FALSE
+2016,ipsl_onveiligheids-gevoelens,psl_vernielingen,0.61086091053496006,0.5976855567546266,TRUE
+2016,ipsl_onveiligheids-gevoelens,ipsl_vernielingen_ sum,0.61086091053496006,0.5974023782628965,TRUE
+2016,ipsl_onveiligheids-gevoelens,psl_diefstal_uit_van_auto,2.020621720917326e-4,1.140048266057292e-5,TRUE
+2016,ipsl_onveiligheids-gevoelens,psl_autodiefstal,0.003456544350706414,4.669554051841551e-4,TRUE
+2016,ipsl_onveiligheids-gevoelens,psl_Diefstal_ander_motorvoertuig,1.4504803781889564e-4,1.3646576198000915e-4,TRUE
+2016,ipsl_onveiligheids-gevoelens,psl_fietsdiefstal,0.07116448802808661,0.015031374493163385,TRUE
+2016,ipsl_onveiligheids-gevoelens,psl_beroving,0.020902298632690552,0.0075532972190861525,TRUE
+2016,ipsl_onveiligheids-gevoelens,psl_zakkenrollerij,0.019074620393628505,0.007194463611253088,TRUE
+2016,ipsl_onveiligheids-gevoelens,psl_mishandeling,0.014736262918088938,0.010013159422506357,TRUE
+2016,ipsl_onveiligheids-gevoelens,psl_bedreiging,0.014884865356623589,0.010156283564255464,TRUE
+2016,ipsl_onveiligheids-gevoelens,psl_sexuele_int_ gew,0.015481891074486054,0.010360598876839822,TRUE
+2016,ipsl_onveiligheids-gevoelens,psl_overige_diefstal,0.6282082177425012,0.6083389737733769,TRUE
+2016,ipsl_onveiligheids-gevoelens,psl_inbraak_totaal,6.326050794314142e-13,1.0185186027911186e-12,FALSE
+2016,ipsl_onveiligheids-gevoelens,psl_brom_snor_ samen,1.4883756867090092e-4,1.3756071264836578e-4,TRUE
+2016,ipsl_onveiligheids-gevoelens,ipsl_diefstal_uit_ van_auto,2.0468626148018032e-4,1.1398040612675686e-5,TRUE
+2016,ipsl_onveiligheids-gevoelens,ipsl_autodiefstal,0.0035535565768476385,4.737384050597093e-4,TRUE
+2016,ipsl_onveiligheids-gevoelens,ipsl_Diefstal_ander_motorvoertuig,1.4334343181365838e-4,1.368945556365908e-4,TRUE
+2016,ipsl_onveiligheids-gevoelens,ipsl_fietsdiefstal,0.07179121275994249,0.015038430076148579,TRUE
+2016,ipsl_onveiligheids-gevoelens,ipsl_beroving,0.018930342491244367,0.0071582238996446,TRUE
+2016,ipsl_onveiligheids-gevoelens,ipsl_zakkenrollerij,0.018930342491244367,0.007154807664771834,TRUE
+2016,ipsl_onveiligheids-gevoelens,ipsl_mishandeling,0.014710825527277427,0.010132460677355404,TRUE
+2016,ipsl_onveiligheids-gevoelens,ipsl_bedreiging,0.014710825527277427,0.010131897273085277,TRUE
+2016,ipsl_onveiligheids-gevoelens,ipsl_sexuele_int_ gew,0.014710825527277427,0.010131753789897946,TRUE
+2016,ipsl_onveiligheids-gevoelens,ipsl_overige_ diefstal,0.62107033590233085,0.607817133043079,TRUE
+2016,ipsl_onveiligheids-gevoelens,ipsl_vernielingen,0.61086091053496006,0.5974023782628965,TRUE
+2016,ipsl_onveiligheids-gevoelens,ipsl_inbraak_totaal,6.608047442568932e-13,1.0125233984581428e-12,FALSE
+2016,ipsl_onveiligheids-gevoelens,ipsl_brom_snor_ samen,1.458228268935713e-4,1.3690796968424124e-4,TRUE
+2016,ipsl_onveiligheids-gevoelens,Izeden,0.0012373069286337746,0.002938233543209101,FALSE
+2016,ipsl_onveiligheids-gevoelens,Imoorddood,1.8177342546543684e-4,6.512643067044799e-4,FALSE
+2016,ipsl_onveiligheids-gevoelens,Ibedreig,4.884981308350689e-14,6.661338147750939e-15,TRUE
+2016,ipsl_onveiligheids-gevoelens,Imishandeling_en_ geweld,1.2139445004777372e-9,1.2229089541149207e-4,FALSE
+2016,ipsl_onveiligheids-gevoelens,Istraatroof,6.640532652646414e-7,9.183978586779773e-5,FALSE
+2016,ipsl_onveiligheids-gevoelens,Ioverval,2.4328576930798818e-9,1.28513203012659e-6,FALSE
+2016,ipsl_onveiligheids-gevoelens,Iinbrwoning,9.43689570931383e-14,3.084199562408685e-13,FALSE
+2016,ipsl_onveiligheids-gevoelens,Iinbrbox,1.909559745882916e-7,7.10570031212665e-5,FALSE
+2016,ipsl_onveiligheids-gevoelens,Iuitauto,0.11977759853084691,0.3551552490390373,FALSE
+2016,ipsl_onveiligheids-gevoelens,Ivanpersauto,3.926532187312759e-4,1.2649856385049674e-5,TRUE
+2016,ipsl_onveiligheids-gevoelens,Ifietsdief,6.394540924197223e-4,5.753200236702227e-5,TRUE
+2016,ipsl_onveiligheids-gevoelens,Ibromsnorfiets,4.903512083087591e-5,8.615830251468282e-6,TRUE
+2016,ipsl_onveiligheids-gevoelens,Ioverigvoertuig,0.003089250191532722,0.003249652142414572,FALSE
+2016,ipsl_onveiligheids-gevoelens,Ivermogen,0.7319954333301182,0.2410811511107691,TRUE
+2016,ipsl_onveiligheids-gevoelens,Iinbrbedr,0.003068716944367722,0.005756053666229111,FALSE
+2016,ipsl_onveiligheids-gevoelens,Iwinkel,0.00493741921209967,8.091278474879893e-4,TRUE
+2016,ipsl_onveiligheids-gevoelens,Izakrol,0.19476324442079074,0.5607648037266382,FALSE
+2017,ipsl_onveiligheids-gevoelens,Ipersonenoverlast,4.871285220398036e-5,0.03333724873013355,FALSE
+2017,ipsl_onveiligheids-gevoelens,Iverloedering,1.34964520048797e-6,9.678533328116856e-7,TRUE
+2017,ipsl_onveiligheids-gevoelens,overlastindex,1.587349486076306e-6,0.0029744057768783527,FALSE
+2017,ipsl_onveiligheids-gevoelens,HICindex,2.899902540320909e-13,2.2343149552739305e-10,FALSE
+2017,ipsl_onveiligheids-gevoelens,HVCIndex,3.131867579320158e-5,3.576072837461197e-4,FALSE
+2017,ipsl_onveiligheids-gevoelens,criminaliteitsindex,2.2951951450522756e-10,1.666749849249527e-8,FALSE
+2017,ipsl_onveiligheids-gevoelens,Slachtof_MEAN,0,0,FALSE
+2017,ipsl_onveiligheids-gevoelens,HoevCrim_MEAN,0,0,FALSE
+2017,ipsl_onveiligheids-gevoelens,VerandCrim_MEAN,0.4488484876190906,0.36592077421344804,TRUE
+2017,ipsl_onveiligheids-gevoelens,OnveiligheidBuurt_MEAN,0,0,FALSE
+2017,ipsl_onveiligheids-gevoelens,OnveiligheidAlgemeen_MEAN,0,0,FALSE
+2017,ipsl_onveiligheids-gevoelens,rapportcijfer_veiligheid_buurt_MEAN,0,0,FALSE
+2017,ipsl_onveiligheids-gevoelens,NietOpen_MEAN,0,0,FALSE
+2017,ipsl_onveiligheids-gevoelens,Omloop_MEAN,0,0,FALSE
+2017,ipsl_onveiligheids-gevoelens,StrLoopt_MEAN,0,0,FALSE
+2017,ipsl_onveiligheids-gevoelens,Alleen_MEAN,0,0,FALSE
+2017,ipsl_onveiligheids-gevoelens,Geen_activieit_avond_MEAN,0,0,FALSE
+2017,ipsl_onveiligheids-gevoelens,niet_alleen_buiten_MEAN,0,0,FALSE
+2017,ipsl_onveiligheids-gevoelens,HoevOverlastBuurt_MEAN,1.0095924096731324e-11,2.085993600076108e-10,FALSE
+2017,ipsl_onveiligheids-gevoelens,VerandOverlastBuurt_MEAN,0.9806649072874385,0.6392150820441538,TRUE
+2017,ipsl_onveiligheids-gevoelens,risicoperceptie,3.9968028886505635e-15,5.062616992290714e-14,FALSE
+2017,ipsl_onveiligheids-gevoelens,onveiligheidsgevoelens,0,0,FALSE
+2017,ipsl_onveiligheids-gevoelens,vermijding,0,0,FALSE
+2017,ipsl_onveiligheids-gevoelens,Rommel_MEAN,9.113745313982236e-10,4.134905751129736e-10,TRUE
+2017,ipsl_onveiligheids-gevoelens,Verniel_MEAN,0,0,FALSE
+2017,ipsl_onveiligheids-gevoelens,Beklad_MEAN,2.992065080920092e-5,4.464825629657554e-6,TRUE
+2017,ipsl_onveiligheids-gevoelens,HondPoep_MEAN,0.34410197034316736,0.522149138972247,FALSE
+2017,ipsl_onveiligheids-gevoelens,onderhoud_straat_MEAN,0.0036245790163371705,3.875763826233225e-4,TRUE
+2017,ipsl_onveiligheids-gevoelens,onderhoud_groen_MEAN,4.644866393288538e-6,3.539690052178912e-8,TRUE
+2017,ipsl_onveiligheids-gevoelens,Dronken_MEAN,0.056704802171956725,0.33299747514726175,FALSE
+2017,ipsl_onveiligheids-gevoelens,Drugs_MEAN,1.1915584963162473e-8,5.035547441245569e-7,FALSE
+2017,ipsl_onveiligheids-gevoelens,Horeca_MEAN,0.7876283771636554,0.8224910230231077,FALSE
+2017,ipsl_onveiligheids-gevoelens,BuurtWon_MEAN,2.042810365310288e-14,2.7977620220553945e-14,FALSE
+2017,ipsl_onveiligheids-gevoelens,LastVal_MEAN,3.9968028886505635e-15,6.972200594645983e-13,FALSE
+2017,ipsl_onveiligheids-gevoelens,Jongeren_MEAN,0,0,FALSE
+2017,ipsl_onveiligheids-gevoelens,verloedering,6.394484941552037e-11,3.8768988019910466e-13,TRUE
+2017,ipsl_onveiligheids-gevoelens,blok_overlast,1.618507550205095e-10,4.383004625907461e-9,FALSE
+2017,ipsl_onveiligheids-gevoelens,diefstal_uit_van_auto_sum,0.49647942297140624,0.11729157025894432,TRUE
+2017,ipsl_onveiligheids-gevoelens,autodiefstal_sum,0.015002650834915032,1.2041342546575962e-4,TRUE
+2017,ipsl_onveiligheids-gevoelens,Diefstal_ander_motorvoertuig_sum,0.012094907999506743,0.010261922853901151,TRUE
+2017,ipsl_onveiligheids-gevoelens,fietsdiefstal_sum,0.051696872939096306,0.006105836894929384,TRUE
+2017,ipsl_onveiligheids-gevoelens,beroving_sum,0.28409861457117125,0.6592873908779409,FALSE
+2017,ipsl_onveiligheids-gevoelens,zakkenrollerij_sum,0.27913241861171456,0.6578386139605941,FALSE
+2017,ipsl_onveiligheids-gevoelens,mishandeling_sum,0.050776867250217794,0.12948553601054735,FALSE
+2017,ipsl_onveiligheids-gevoelens,bedreiging_sum,0.05120228327755583,0.12903161765808813,FALSE
+2017,ipsl_onveiligheids-gevoelens,sexuele_int_gew_ sum,0.05160264869075304,0.13222750795321847,FALSE
+2017,ipsl_onveiligheids-gevoelens,overige_diefstal_ sum,0.11753298099925735,0.04695635417315902,TRUE
+2017,ipsl_onveiligheids-gevoelens,vernielingen_sum,0.5181634769819397,0.613565189464113,FALSE
+2017,ipsl_onveiligheids-gevoelens,inbraak_totaal,1.1100632479887906e-7,1.3014304811598265e-7,FALSE
+2017,ipsl_onveiligheids-gevoelens,brom_snor_samen,0.012164802592856239,0.010226052446558276,TRUE
+2017,ipsl_onveiligheids-gevoelens,inbrwoni,0.006002042885211445,0.018208598415366373,FALSE
+2017,ipsl_onveiligheids-gevoelens,moorddood,0.0017260619077197337,0.05071154218927676,FALSE
+2017,ipsl_onveiligheids-gevoelens,straatro,6.188672362898995e-4,0.06046715722102647,FALSE
+2017,ipsl_onveiligheids-gevoelens,overval,5.841387045624202e-6,3.5455187441968405e-5,FALSE
+2017,ipsl_onveiligheids-gevoelens,zeden_incl_ kinderporno,0.06567861990404333,0.9302422495500551,FALSE
+2017,ipsl_onveiligheids-gevoelens,mishand_en_ geweld,3.828792126148173e-4,0.32877237714301133,FALSE
+2017,ipsl_onveiligheids-gevoelens,bedreiging_incl_ chantage,2.428284910260814e-6,3.1202172283961715e-4,FALSE
+2017,ipsl_onveiligheids-gevoelens,inbrbox,1.2918631761671406e-4,1.7003873393406366e-4,FALSE
+2017,ipsl_onveiligheids-gevoelens,uitauto,0.3970162552705141,0.9713639580358624,FALSE
+2017,ipsl_onveiligheids-gevoelens,zakrolexOV,0.521829402186508,0.635550708024538,FALSE
+2017,ipsl_onveiligheids-gevoelens,vermogen,0.8100990223193505,0.5364509321013302,TRUE
+2017,ipsl_onveiligheids-gevoelens,inbrbedr,0.04073102541296669,0.046318503896359386,FALSE
+2017,ipsl_onveiligheids-gevoelens,winkel,0.8946625776848607,0.8931121887904574,TRUE
+2017,ipsl_onveiligheids-gevoelens,vanpersauto,0.010498415787544069,0.0036154879042642474,TRUE
+2017,ipsl_onveiligheids-gevoelens,fietsdief,1.179983397059381e-4,1.921239708067013e-4,FALSE
+2017,ipsl_onveiligheids-gevoelens,bromsnorfiets,0.08400600960596982,0.12550879178508145,FALSE
+2017,ipsl_onveiligheids-gevoelens,ovvoert_incl_vracht_vaar_motor,0.3013875996736046,0.2296002960394341,TRUE
+2017,ipsl_onveiligheids-gevoelens,drugs_totaal,0.19618051311266727,0.9387341015929649,FALSE
+2017,ipsl_onveiligheids-gevoelens,Boalleprios,0.00919427894686553,0.2782029589748698,FALSE
+2017,ipsl_onveiligheids-gevoelens,Goalleprios,0.8292214828405493,0.5513006477388271,TRUE
+2017,ipsl_onveiligheids-gevoelens,Joalleprios,0.013012507312369248,0.05129619242865191,FALSE
+2017,ipsl_onveiligheids-gevoelens,POalleprios,0.5696775439162018,0.12569127642683986,TRUE
+2017,ipsl_onveiligheids-gevoelens,verniel,0.15743438453666614,0.30602237859650816,FALSE
+2017,ipsl_onveiligheids-gevoelens,won1000,1.352271512722325e-5,1.543478038927848e-4,FALSE
+2017,ipsl_onveiligheids-gevoelens,pinbrwoni,1.3667974342101985e-5,1.5363425009740084e-4,FALSE
+2017,ipsl_onveiligheids-gevoelens,zed1000,0.004263515762154668,0.04790795157156591,FALSE
+2017,ipsl_onveiligheids-gevoelens,pzeden_incl_ kinderporno,0.004411423175605167,0.049223518073316486,FALSE
+2017,ipsl_onveiligheids-gevoelens,moorddood1000,1.151592393973111e-4,0.020598931986575808,FALSE
+2017,ipsl_onveiligheids-gevoelens,pmoorddood,1.1434231861962019e-4,0.020638887918905002,FALSE
+2017,ipsl_onveiligheids-gevoelens,mishand_en_ geweld1000,4.952265264535072e-10,0.001190737856759494,FALSE
+2017,ipsl_onveiligheids-gevoelens,pmishand_en_ geweld,5.06795938548521e-10,0.0011894345201202139,FALSE
+2017,ipsl_onveiligheids-gevoelens,bedr1000,2.886579864025407e-14,2.1684876116978558e-12,FALSE
+2017,ipsl_onveiligheids-gevoelens,pbedreiging_incl_ chantage,3.064215547965432e-14,2.176703262080082e-12,FALSE
+2017,ipsl_onveiligheids-gevoelens,str1000,5.190945077337972e-6,2.3581458717503168e-5,FALSE
+2017,ipsl_onveiligheids-gevoelens,pstraatro,5.20494853883946e-6,2.412382829986015e-5,FALSE
+2017,ipsl_onveiligheids-gevoelens,ovr1000,3.9752946712212633e-7,9.291378635367664e-7,FALSE
+2017,ipsl_onveiligheids-gevoelens,poverval,5.440526686939506e-7,1.1191605828742013e-6,FALSE
+2017,ipsl_onveiligheids-gevoelens,box1000,4.161505072675098e-5,0.009392098089918255,FALSE
+2017,ipsl_onveiligheids-gevoelens,pinbrbox,4.26634867016773e-5,0.00942973829735938,FALSE
+2017,ipsl_onveiligheids-gevoelens,uiau1000,0.010070679023440388,0.13206281696758748,FALSE
+2017,ipsl_onveiligheids-gevoelens,puitauto,0.010075643685081292,0.13191245483930425,FALSE
+2017,ipsl_onveiligheids-gevoelens,vaut1000,2.7754432570459286e-4,6.846730771670195e-5,TRUE
+2017,ipsl_onveiligheids-gevoelens,pvanpersauto,2.8331839118544977e-4,6.794844558610791e-5,TRUE
+2017,ipsl_onveiligheids-gevoelens,fiets1000,7.844209283436321e-5,3.3066053128472106e-5,TRUE
+2017,ipsl_onveiligheids-gevoelens,pfietsdief,7.812461539646876e-5,3.313708097141266e-5,TRUE
+2017,ipsl_onveiligheids-gevoelens,bromsnor1000,7.82940347129113e-4,2.8629152540249336e-4,TRUE
+2017,ipsl_onveiligheids-gevoelens,pbromsnorfiets,8.499335656790841e-4,2.890333910356979e-4,TRUE
+2017,ipsl_onveiligheids-gevoelens,ovvo1000,0.0022346055423390077,6.082850782216376e-4,TRUE
+2017,ipsl_onveiligheids-gevoelens,povvoert_incl_ vracht_vaar_motor,0.0021994569928400765,6.146172150529594e-4,TRUE
+2017,ipsl_onveiligheids-gevoelens,verm1000,0.8666567686233855,0.5304999946741638,TRUE
+2017,ipsl_onveiligheids-gevoelens,pvermoge,0.8639408393847898,0.5307404351431049,TRUE
+2017,ipsl_onveiligheids-gevoelens,bedrijf1000,0.12304596532404721,0.24628006547248016,FALSE
+2017,ipsl_onveiligheids-gevoelens,pinbrbedr,0.12283757524644745,0.24646915217533616,FALSE
+2017,ipsl_onveiligheids-gevoelens,wink1000,0.015527875488216214,0.021488446019541696,FALSE
+2017,ipsl_onveiligheids-gevoelens,pwinkel,0.015527875488216214,0.021490481858308597,FALSE
+2017,ipsl_onveiligheids-gevoelens,zakr1000,0.8436734581480962,0.4632754269515029,TRUE
+2017,ipsl_onveiligheids-gevoelens,pzakrolexOV,0.8500807782583903,0.46367102198521826,TRUE
+2017,ipsl_onveiligheids-gevoelens,personen1000,0.4192737144502048,0.5035090681717813,FALSE
+2017,ipsl_onveiligheids-gevoelens,ppersonenov,0.42284898483876576,0.5035716624233992,FALSE
+2017,ipsl_onveiligheids-gevoelens,jeugd1000,2.804805706539959e-4,0.006462658600567828,FALSE
+2017,ipsl_onveiligheids-gevoelens,pjeugdov,2.821534501746825e-4,0.006446167273035375,FALSE
+2017,ipsl_onveiligheids-gevoelens,geluid1000,0.8693765499537778,0.8002563191767962,TRUE
+2017,ipsl_onveiligheids-gevoelens,pgeluid,0.86961467958018,0.8002127603283178,TRUE
+2017,ipsl_onveiligheids-gevoelens,buur1000,0.013277168135272799,0.4575449788219552,FALSE
+2017,ipsl_onveiligheids-gevoelens,pburenov,0.013277168135272799,0.45751823483591547,FALSE
+2017,ipsl_onveiligheids-gevoelens,drugs_totaal1000,0.027438663643660544,0.4754704634804092,FALSE
+2017,ipsl_onveiligheids-gevoelens,pdrugstotaal,0.028423309500548388,0.4789935636845466,FALSE
+2017,ipsl_onveiligheids-gevoelens,vern1000,0.0011881165200251509,0.007368924689903578,FALSE
+2017,ipsl_onveiligheids-gevoelens,pverniel,0.0012001930900109592,0.0073795214818579424,FALSE
+2017,ipsl_onveiligheids-gevoelens,poverlastmeld,0.07279519553865854,0.6778969362834921,FALSE
+2017,ipsl_onveiligheids-gevoelens,ipsl_verloedering,6.366684957015423e-11,3.907985046680551e-13,TRUE
+2017,ipsl_onveiligheids-gevoelens,ipsl_blok_overlast,1.657689541190166e-10,4.399845598968e-9,FALSE
+2017,ipsl_onveiligheids-gevoelens,psl_vernielingen,0.11030998096586453,0.14735411393850528,FALSE
+2017,ipsl_onveiligheids-gevoelens,ipsl_vernielingen_ sum,0.11182078273492024,0.14741757600529004,FALSE
+2017,ipsl_onveiligheids-gevoelens,psl_diefstal_uit_van_auto,0.15875842871335344,0.039652806554117515,TRUE
+2017,ipsl_onveiligheids-gevoelens,psl_autodiefstal,0.00532752750979415,1.4830050596703614e-4,TRUE
+2017,ipsl_onveiligheids-gevoelens,psl_Diefstal_ander_motorvoertuig,0.002467229967785922,7.853022674555454e-4,TRUE
+2017,ipsl_onveiligheids-gevoelens,psl_fietsdiefstal,0.06741040022178324,0.024056437999407265,TRUE
+2017,ipsl_onveiligheids-gevoelens,psl_beroving,0.13037200635876545,0.05460970061733761,TRUE
+2017,ipsl_onveiligheids-gevoelens,psl_zakkenrollerij,0.12307969322889023,0.05441057352873324,TRUE
+2017,ipsl_onveiligheids-gevoelens,psl_mishandeling,0.024862291422199867,0.013931222643491115,TRUE
+2017,ipsl_onveiligheids-gevoelens,psl_bedreiging,0.025215010505371893,0.013912159076066466,TRUE
+2017,ipsl_onveiligheids-gevoelens,psl_sexuele_int_ gew,0.024629869881616084,0.013638208950765618,TRUE
+2017,ipsl_onveiligheids-gevoelens,psl_overige_diefstal,0.2580696341836841,0.17562391829980317,TRUE
+2017,ipsl_onveiligheids-gevoelens,psl_inbraak_totaal,1.9755548308353355e-9,9.280464396965726e-9,FALSE
+2017,ipsl_onveiligheids-gevoelens,psl_brom_snor_ samen,0.0025302866502030508,7.861411110379191e-4,TRUE
+2017,ipsl_onveiligheids-gevoelens,ipsl_diefstal_uit_ van_auto,0.1590148418482047,0.03980141732225828,TRUE
+2017,ipsl_onveiligheids-gevoelens,ipsl_autodiefstal,0.005337514578940716,1.4802534172098092e-4,TRUE
+2017,ipsl_onveiligheids-gevoelens,ipsl_Diefstal_ander_motorvoertuig,0.002600996208595774,7.886700331072305e-4,TRUE
+2017,ipsl_onveiligheids-gevoelens,ipsl_fietsdiefstal,0.06785027176796277,0.024086600037171113,TRUE
+2017,ipsl_onveiligheids-gevoelens,ipsl_beroving,0.1225128515682039,0.05453468265990291,TRUE
+2017,ipsl_onveiligheids-gevoelens,ipsl_zakkenrollerij,0.1225128515682039,0.05454246935697338,TRUE
+2017,ipsl_onveiligheids-gevoelens,ipsl_mishandeling,0.025907646280906693,0.013900962683879303,TRUE
+2017,ipsl_onveiligheids-gevoelens,ipsl_bedreiging,0.025907646280906693,0.013903771043814794,TRUE
+2017,ipsl_onveiligheids-gevoelens,ipsl_sexuele_int_ gew,0.025907646280906693,0.01390390730147617,TRUE
+2017,ipsl_onveiligheids-gevoelens,ipsl_overige_ diefstal,0.2607079838017963,0.17541471238533468,TRUE
+2017,ipsl_onveiligheids-gevoelens,ipsl_vernielingen,0.11182078273492024,0.14741757600529004,FALSE
+2017,ipsl_onveiligheids-gevoelens,ipsl_inbraak_totaal,1.974250096736796e-9,9.265241018852066e-9,FALSE
+2017,ipsl_onveiligheids-gevoelens,ipsl_brom_snor_ samen,0.002600996208595774,7.889878753712942e-4,TRUE
+2017,ipsl_onveiligheids-gevoelens,Izeden,0.0026107660529346433,0.004204795089818525,FALSE
+2017,ipsl_onveiligheids-gevoelens,Imoorddood,1.1434231861962019e-4,0.020638887918905002,FALSE
+2017,ipsl_onveiligheids-gevoelens,Ibedreig,2.454791925288191e-11,5.129376923207474e-10,FALSE
+2017,ipsl_onveiligheids-gevoelens,Imishandeling_en_ geweld,2.45529863107663e-8,2.4502767190792696e-4,FALSE
+2017,ipsl_onveiligheids-gevoelens,Istraatroof,5.727954572476435e-5,3.1615428387476996e-5,TRUE
+2017,ipsl_onveiligheids-gevoelens,Ioverval,5.440526686939506e-7,1.1191605828742013e-6,FALSE
+2017,ipsl_onveiligheids-gevoelens,Iinbrwoning,2.7111735079188293e-10,2.7794107904099974e-8,FALSE
+2017,ipsl_onveiligheids-gevoelens,Iinbrbox,4.26634867016773e-5,0.00942973829735938,FALSE
+2017,ipsl_onveiligheids-gevoelens,Iuitauto,0.009779851795635341,0.04203341325383958,FALSE
+2017,ipsl_onveiligheids-gevoelens,Ivanpersauto,1.4465946480468617e-5,2.894889008508983e-7,TRUE
+2017,ipsl_onveiligheids-gevoelens,Ifietsdief,7.883796796370746e-4,1.2030845114141542e-4,TRUE
+2017,ipsl_onveiligheids-gevoelens,Ibromsnorfiets,6.490578023932159e-6,6.238259874891128e-6,TRUE
+2017,ipsl_onveiligheids-gevoelens,Ioverigvoertuig,5.019310213816297e-5,7.2029386015692864e-6,TRUE
+2017,ipsl_onveiligheids-gevoelens,Ivermogen,0.4995710801773594,0.33247794253503526,TRUE
+2017,ipsl_onveiligheids-gevoelens,Iinbrbedr,0.12283757524644745,0.24646915217533616,FALSE
+2017,ipsl_onveiligheids-gevoelens,Iwinkel,0.015527875488216214,0.021490481858308597,FALSE
+2017,ipsl_onveiligheids-gevoelens,Izakrol,0.5664887277992547,0.8061625974372921,FALSE
