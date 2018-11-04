@@ -1,0 +1,222 @@
+jaar,field_name,corr_field,spearman,pearson,S>P
+2015,gem_veiligheidsgevoel, (Vuur)wapenmisdrijven,0.05126558978649154,0.0425072498455783,TRUE
+2015,gem_veiligheidsgevoel, Aanranding,0.3910967709418962,0.15354203274496547,TRUE
+2015,gem_veiligheidsgevoel, Afpersing en afdreiging,0.007628750959685515,0.03075666370372021,FALSE
+2015,gem_veiligheidsgevoel, Bankbreuk,0.199288412904981,0.06139569542539158,TRUE
+2015,gem_veiligheidsgevoel, Bedreiging,0.13765791634772961,0.06643754617774711,TRUE
+2015,gem_veiligheidsgevoel, Bedreiging en stalking,0.20806346369535333,0.06848853002384692,TRUE
+2015,gem_veiligheidsgevoel, Bedrog,0.1908358740045002,0.08542862224324166,TRUE
+2015,gem_veiligheidsgevoel, Bedrog (overig),0.35414764123292164,0.11587265895791621,TRUE
+2015,gem_veiligheidsgevoel, Brandstichting/ontploffing,0.13765791634772961,0.06005922097863947,TRUE
+2015,gem_veiligheidsgevoel, Computervredebreuk,0.15829394366797933,0.06085644099558918,TRUE
+2015,gem_veiligheidsgevoel, Diefstal en inbraak met geweld,0.016831456186893412,0.030445111235420708,FALSE
+2015,gem_veiligheidsgevoel, Diefstal en inbraak zonder geweld,0.06661188226688908,0.0440269202004977,TRUE
+2015,gem_veiligheidsgevoel, Diefstal/verduistering en inbraak,0.06661188226688908,0.043257600785148176,TRUE
+2015,gem_veiligheidsgevoel, Discriminatie,0.12250411612135226,0.08331321965405447,TRUE
+2015,gem_veiligheidsgevoel, Drugsmisdrijf (overig),0.12388713354998182,0.5795518869429162,FALSE
+2015,gem_veiligheidsgevoel, Drugsmisdrijven,0.011374198642690958,0.0438618517094036,FALSE
+2015,gem_veiligheidsgevoel, Flessentrekkerij,0.3323076570965289,0.20955142123413317,TRUE
+2015,gem_veiligheidsgevoel, Gewelds- en seksuele misdrijven,0.13765791634772961,0.07746645643832073,TRUE
+2015,gem_veiligheidsgevoel, Geweldsmisdrijf (overig),0.21077030102904337,0.1174029304735913,TRUE
+2015,gem_veiligheidsgevoel, Harddrugs,0.026096891052703075,0.05970661052218418,FALSE
+2015,gem_veiligheidsgevoel, Heling,0.1181759570130323,0.045934145277959804,TRUE
+2015,gem_veiligheidsgevoel, Huisvredebreuk,0.28612290291498743,0.11360370354377247,TRUE
+2015,gem_veiligheidsgevoel, Joyriding,0.06262211127729667,0.08100588995549884,FALSE
+2015,gem_veiligheidsgevoel, Levensmisdrijf,0.03858845292201929,0.05423570470565675,FALSE
+2015,gem_veiligheidsgevoel, Lokaalvredebreuk,0.18497541415019803,0.09544478973417414,TRUE
+2015,gem_veiligheidsgevoel," Mensenhandel, mensensmokkel",0.24928250596238,0.13385575218478962,TRUE
+2015,gem_veiligheidsgevoel, Militair misdrijf,0.8161864090383131,0.6140392787676745,TRUE
+2015,gem_veiligheidsgevoel, Misdrijf (overig),0.19933549461780897,0.09764846190913201,TRUE
+2015,gem_veiligheidsgevoel, Misdrijven overige wetten,0.19933549461780897,0.10039799610260935,TRUE
+2015,gem_veiligheidsgevoel, Misdrijven WvSr (overig),0.1908358740045002,0.08385042803457754,TRUE
+2015,gem_veiligheidsgevoel, Mishandeling,0.11210929146889193,0.07770262648257154,TRUE
+2015,gem_veiligheidsgevoel, Muntmisdrijf,0.1403127704727103,0.05809016070963535,TRUE
+2015,gem_veiligheidsgevoel, Niet opvolgen van ambtelijk bevel,0.254245874016199,0.09569778439066301,TRUE
+2015,gem_veiligheidsgevoel, Ontucht met minderjarige,0.3902336739236367,0.14453063527383003,TRUE
+2015,gem_veiligheidsgevoel, Ontucht met misbruik van gezag,0.6555573554233827,0.5483095000406484,TRUE
+2015,gem_veiligheidsgevoel, Openbaar gezag misdrijf,0.2356210035126458,0.06502128584818312,TRUE
+2015,gem_veiligheidsgevoel, Openbaar gezag misdrijf (overig),0.06432927890367601,0.07792555697423187,FALSE
+2015,gem_veiligheidsgevoel, Openbare orde misdrijf,0.1181759570130323,0.06455943020768329,TRUE
+2015,gem_veiligheidsgevoel, Openbare orde misdrijf (overig),0.09448453562735715,0.06362583214071904,TRUE
+2015,gem_veiligheidsgevoel, Openlijk geweld tegen goed,0.36625146058358227,0.06305766734470142,TRUE
+2015,gem_veiligheidsgevoel, Openlijk geweld tegen persoon,0.03580599705202925,0.07284063116252781,FALSE
+2015,gem_veiligheidsgevoel, Openlijke geweldpleging,0.07089431754922315,0.06369358944319714,TRUE
+2015,gem_veiligheidsgevoel, Oplichting,0.1908358740045002,0.08344456166579883,TRUE
+2015,gem_veiligheidsgevoel, Pornografie,0.2799203496864415,0.18285024267579897,TRUE
+2015,gem_veiligheidsgevoel, Rijden onder invloed,0.1181759570130323,0.06352362823094304,TRUE
+2015,gem_veiligheidsgevoel, Rijden tijdens ontzegging,0.06971710124300579,0.043088217503545634,TRUE
+2015,gem_veiligheidsgevoel, Rijden tijdens rijverbod,0.08364895278088813,0.06498798294052288,TRUE
+2015,gem_veiligheidsgevoel, Schennis der eerbaarheid,0.42991878503288405,0.203049650137769,TRUE
+2015,gem_veiligheidsgevoel, Seksueel misdrijf,0.31913878550330477,0.1867802576446531,TRUE
+2015,gem_veiligheidsgevoel, Seksueel misdrijf (overig),0.5937868060168403,0.5860130152974725,TRUE
+2015,gem_veiligheidsgevoel, Softdrugs,0.041521494410318605,0.06403542172719101,FALSE
+2015,gem_veiligheidsgevoel, Stalking,0.24526500073077728,0.09453712990200147,TRUE
+2015,gem_veiligheidsgevoel, Valse aangifte,0.11066963298488286,0.12073092581333089,FALSE
+2015,gem_veiligheidsgevoel, Valsheid in geschriften,0.0268409444196136,0.040813171879027665,FALSE
+2015,gem_veiligheidsgevoel, Valsheid in zegels en merken,0.039161355069644355,0.05494049491443831,FALSE
+2015,gem_veiligheidsgevoel, Valsheidsmisdrijf,0.028319671295760074,0.04268751420133454,FALSE
+2015,gem_veiligheidsgevoel, Verblijf ongewenste vreemdeling,0.10060235079905988,0.057542896466194815,TRUE
+2015,gem_veiligheidsgevoel, Verkeersmisdrijf (overig),0.08486877113393487,0.09158784519634122,FALSE
+2015,gem_veiligheidsgevoel, Verkeersmisdrijven,0.058589475388567624,0.0579677418450566,TRUE
+2015,gem_veiligheidsgevoel, Verkrachting,0.5185512602345415,0.12547578328689601,TRUE
+2015,gem_veiligheidsgevoel, Verlaten plaats ongeval,0.08001937592027497,0.05715190562062977,TRUE
+2015,gem_veiligheidsgevoel, Vermogensmisdrijven,0.06661188226688908,0.04453242018526993,TRUE
+2015,gem_veiligheidsgevoel, Vernieling aan auto,0.21702022575997715,0.06863890344426427,TRUE
+2015,gem_veiligheidsgevoel, Vernieling aan openbaar gebouw,0.49855598552418856,0.15838104768116712,TRUE
+2015,gem_veiligheidsgevoel, Vernieling en beschadiging,0.22620604493502672,0.07315778755124036,TRUE
+2015,gem_veiligheidsgevoel, Vernieling middel openbvervoer,0.017358585846083407,0.09100360736988922,FALSE
+2015,gem_veiligheidsgevoel," Vernieling, beschadiging (overig)",0.15173503571673042,0.07795623515234107,TRUE
+2015,gem_veiligheidsgevoel," Vernielingen, misdropenborde/gezag",0.22620604493502672,0.06786916872129267,TRUE
+2015,gem_veiligheidsgevoel, Voeren vals kenteken,0.229118453414914,0.08060332828223782,TRUE
+2015,gem_veiligheidsgevoel, Vrijheidsbeneming/gijzeling,0.019600372359515728,0.03867891206011831,FALSE
+2015,gem_veiligheidsgevoel, Wederspannigheid,0.05644958783915088,0.04784721437348316,TRUE
+2015,gem_veiligheidsgevoel, Weigeren blaastest/bloedonderzoek,0.04998964144110385,0.05059710989380806,FALSE
+2015,gem_veiligheidsgevoel, Witwassen,0.077527200453535,0.06346758671615493,TRUE
+2015,gem_veiligheidsgevoel,"Misdrijven, totaal",0.06661188226688908,0.051476354126378965,TRUE
+2016,gem_veiligheidsgevoel, (Vuur)wapenmisdrijven,0.013442814240300471,0.024182120281883268,FALSE
+2016,gem_veiligheidsgevoel, Aanranding,0.041521494410318605,0.02484736542316268,TRUE
+2016,gem_veiligheidsgevoel, Afpersing en afdreiging,0.011169928925967687,0.02303376201496654,FALSE
+2016,gem_veiligheidsgevoel, Bankbreuk,0.3043074354691464,0.07734197725888325,TRUE
+2016,gem_veiligheidsgevoel, Bedreiging,0.058589475388567624,0.03392288571810176,TRUE
+2016,gem_veiligheidsgevoel, Bedreiging en stalking,0.058589475388567624,0.03459910803490818,TRUE
+2016,gem_veiligheidsgevoel, Bedrog,0.15173503571673042,0.04822733984076777,TRUE
+2016,gem_veiligheidsgevoel, Bedrog (overig),0.1666999876249451,0.06494155600771756,TRUE
+2016,gem_veiligheidsgevoel, Brandstichting/ontploffing,0.07030556335164606,0.04156282130194566,TRUE
+2016,gem_veiligheidsgevoel, Computervredebreuk,0.006543490146837971,0.0389870129475578,FALSE
+2016,gem_veiligheidsgevoel, Diefstal en inbraak met geweld,0.010245193941127884,0.016378937868094745,FALSE
+2016,gem_veiligheidsgevoel, Diefstal en inbraak zonder geweld,0.05126558978649154,0.022401873389064075,TRUE
+2016,gem_veiligheidsgevoel, Diefstal/verduistering en inbraak,0.05126558978649154,0.02200487847725352,TRUE
+2016,gem_veiligheidsgevoel, Discriminatie,0.07628167743715686,0.04021551586554217,TRUE
+2016,gem_veiligheidsgevoel, Drugsmisdrijf (overig),0.2969523388735098,0.4390838633899281,FALSE
+2016,gem_veiligheidsgevoel, Drugsmisdrijven,0.006543490146837971,0.0149027744899759,FALSE
+2016,gem_veiligheidsgevoel, Flessentrekkerij,0.3338931364506603,0.23718057798658831,TRUE
+2016,gem_veiligheidsgevoel, Gewelds- en seksuele misdrijven,0.047855976842060555,0.035840012821303,TRUE
+2016,gem_veiligheidsgevoel, Geweldsmisdrijf (overig),0.17451900813005938,0.06162929464404865,TRUE
+2016,gem_veiligheidsgevoel, Harddrugs,0.006543490146837971,0.02228887168025695,FALSE
+2016,gem_veiligheidsgevoel, Heling,0.011374198642690958,0.021087894193233758,FALSE
+2016,gem_veiligheidsgevoel, Huisvredebreuk,0.09515736659412477,0.04957995669197146,TRUE
+2016,gem_veiligheidsgevoel, Joyriding,0.05484211977540765,0.03349526693947036,TRUE
+2016,gem_veiligheidsgevoel, Levensmisdrijf,0.047855976842060555,0.03121253269653268,TRUE
+2016,gem_veiligheidsgevoel, Lokaalvredebreuk,0.08001937592027497,0.08408212331254283,FALSE
+2016,gem_veiligheidsgevoel," Mensenhandel, mensensmokkel",0.15173503571673042,0.03254519307148995,TRUE
+2016,gem_veiligheidsgevoel, Militair misdrijf,0.8311469125208302,0.9529206994642894,FALSE
+2016,gem_veiligheidsgevoel, Misdrijf (overig),0.2652387868927899,0.07727728319271798,TRUE
+2016,gem_veiligheidsgevoel, Misdrijven overige wetten,0.2652387868927899,0.07903979393128369,TRUE
+2016,gem_veiligheidsgevoel, Misdrijven WvSr (overig),0.05484211977540765,0.04225167832677679,TRUE
+2016,gem_veiligheidsgevoel, Mishandeling,0.047855976842060555,0.03502386467748142,TRUE
+2016,gem_veiligheidsgevoel, Muntmisdrijf,0.01507022931093216,0.013676373385402396,TRUE
+2016,gem_veiligheidsgevoel, Niet opvolgen van ambtelijk bevel,0.23473669062919855,0.0511823313068569,TRUE
+2016,gem_veiligheidsgevoel, Ontucht met minderjarige,0.30148269746145573,0.15128431162015588,TRUE
+2016,gem_veiligheidsgevoel, Ontucht met misbruik van gezag,0.7613069111155326,0.16175172891188128,TRUE
+2016,gem_veiligheidsgevoel, Openbaar gezag misdrijf,0.15910576941219556,0.03266913765969104,TRUE
+2016,gem_veiligheidsgevoel, Openbaar gezag misdrijf (overig),0.031136392400682222,0.05261054520278119,FALSE
+2016,gem_veiligheidsgevoel, Openbare orde misdrijf,0.041521494410318605,0.028160912408788485,TRUE
+2016,gem_veiligheidsgevoel, Openbare orde misdrijf (overig),0.10060263183225482,0.04681908864391349,TRUE
+2016,gem_veiligheidsgevoel, Openlijk geweld tegen goed,0.06661188226688908,0.0317993867656956,TRUE
+2016,gem_veiligheidsgevoel, Openlijk geweld tegen persoon,0.011760970883598176,0.02945605076388924,FALSE
+2016,gem_veiligheidsgevoel, Openlijke geweldpleging,0.016831456186893412,0.026308521867337564,FALSE
+2016,gem_veiligheidsgevoel, Oplichting,0.15173503571673042,0.0481762608200782,TRUE
+2016,gem_veiligheidsgevoel, Pornografie,0.1327367740471126,0.04839868358799082,TRUE
+2016,gem_veiligheidsgevoel, Rijden onder invloed,0.0625114832796152,0.038053111242413395,TRUE
+2016,gem_veiligheidsgevoel, Rijden tijdens ontzegging,0.08991373630263921,0.02984290367729825,TRUE
+2016,gem_veiligheidsgevoel, Rijden tijdens rijverbod,0.018240092651889972,0.02116894820076265,FALSE
+2016,gem_veiligheidsgevoel, Schennis der eerbaarheid,0.2969041156887642,0.113710982365397,TRUE
+2016,gem_veiligheidsgevoel, Seksueel misdrijf,0.15173503571673042,0.06553614385675477,TRUE
+2016,gem_veiligheidsgevoel, Seksueel misdrijf (overig),0.7042726674352058,0.401672799316096,TRUE
+2016,gem_veiligheidsgevoel, Softdrugs,0.007355028857805035,0.017906391469779237,FALSE
+2016,gem_veiligheidsgevoel, Stalking,0.1666999876249451,0.04277677392428303,TRUE
+2016,gem_veiligheidsgevoel, Valse aangifte,0.02545201533585284,0.03407912444270078,FALSE
+2016,gem_veiligheidsgevoel, Valsheid in geschriften,0.07089431754922315,0.03262953787950851,TRUE
+2016,gem_veiligheidsgevoel, Valsheid in zegels en merken,0.1743047304825054,0.028234138529428243,TRUE
+2016,gem_veiligheidsgevoel, Valsheidsmisdrijf,0.07089431754922315,0.029431044580541466,TRUE
+2016,gem_veiligheidsgevoel, Verblijf ongewenste vreemdeling,0.10633428960495905,0.052320401244611014,TRUE
+2016,gem_veiligheidsgevoel, Verkeersmisdrijf (overig),0.09515736659412477,0.04764400132563806,TRUE
+2016,gem_veiligheidsgevoel, Verkeersmisdrijven,0.0625114832796152,0.033246655994598306,TRUE
+2016,gem_veiligheidsgevoel, Verkrachting,0.12054731608984581,0.04376148893852028,TRUE
+2016,gem_veiligheidsgevoel, Verlaten plaats ongeval,0.10060263183225482,0.03282415743004741,TRUE
+2016,gem_veiligheidsgevoel, Vermogensmisdrijven,0.05126558978649154,0.023142235759731733,TRUE
+2016,gem_veiligheidsgevoel, Vernieling aan auto,0.08486877113393487,0.0404950741059007,TRUE
+2016,gem_veiligheidsgevoel, Vernieling aan openbaar gebouw,0.2116429672200426,0.07780020554638023,TRUE
+2016,gem_veiligheidsgevoel, Vernieling en beschadiging,0.09515736659412477,0.04076401536427188,TRUE
+2016,gem_veiligheidsgevoel, Vernieling middel openbvervoer,0.0023286751402373795,0.005417835759385259,FALSE
+2016,gem_veiligheidsgevoel," Vernieling, beschadiging (overig)",0.09515736659412477,0.044805364456945274,TRUE
+2016,gem_veiligheidsgevoel," Vernielingen, misdropenborde/gezag",0.06661188226688908,0.035158751442688985,TRUE
+2016,gem_veiligheidsgevoel, Voeren vals kenteken,0.12145514289116122,0.03324503735330353,TRUE
+2016,gem_veiligheidsgevoel, Vrijheidsbeneming/gijzeling,0.024036299109610137,0.018942859642552934,TRUE
+2016,gem_veiligheidsgevoel, Wederspannigheid,0.01630877836855449,0.023753515930747593,FALSE
+2016,gem_veiligheidsgevoel, Weigeren blaastest/bloedonderzoek,7.043278842986389e-4,0.012188615594400876,FALSE
+2016,gem_veiligheidsgevoel, Witwassen,0.0035018327417859485,0.0296183335686242,FALSE
+2016,gem_veiligheidsgevoel,"Misdrijven, totaal",0.05126558978649154,0.0263366149958435,TRUE
+2017,gem_veiligheidsgevoel, (Vuur)wapenmisdrijven,0.01390596881436279,0.06737617343614821,FALSE
+2017,gem_veiligheidsgevoel, Aanranding,0.15173503571673042,0.10179984369172157,TRUE
+2017,gem_veiligheidsgevoel, Afpersing en afdreiging,0.02367734758034823,0.058122769796369544,FALSE
+2017,gem_veiligheidsgevoel, Bankbreuk,0.013417407722264407,0.07871119639007995,FALSE
+2017,gem_veiligheidsgevoel, Bedreiging,0.047855976842060555,0.07433377612435232,FALSE
+2017,gem_veiligheidsgevoel, Bedreiging en stalking,0.06661188226688908,0.07793583749505029,FALSE
+2017,gem_veiligheidsgevoel, Bedrog,0.12445479118883407,0.10180927374438031,TRUE
+2017,gem_veiligheidsgevoel, Bedrog (overig),0.13018583568230113,0.07935268275667995,TRUE
+2017,gem_veiligheidsgevoel, Brandstichting/ontploffing,0.058589475388567624,0.0853658402437163,FALSE
+2017,gem_veiligheidsgevoel, Computervredebreuk,0.03959805571514319,0.060369093880462854,FALSE
+2017,gem_veiligheidsgevoel, Diefstal en inbraak met geweld,0.002223135409991084,0.03744061900025031,FALSE
+2017,gem_veiligheidsgevoel, Diefstal en inbraak zonder geweld,0.04460929646336309,0.04379812793696258,TRUE
+2017,gem_veiligheidsgevoel, Diefstal/verduistering en inbraak,0.04460929646336309,0.043259727967031925,TRUE
+2017,gem_veiligheidsgevoel, Discriminatie,0.308989115502768,0.10529035693977473,TRUE
+2017,gem_veiligheidsgevoel, Drugsmisdrijf (overig),0.4891348310867094,0.590628623907063,FALSE
+2017,gem_veiligheidsgevoel, Drugsmisdrijven,0.010245193941127884,0.04772464655253161,FALSE
+2017,gem_veiligheidsgevoel, Gewelds- en seksuele misdrijven,0.047855976842060555,0.08033530630293084,FALSE
+2017,gem_veiligheidsgevoel, Geweldsmisdrijf (overig),0.1908358740045002,0.15145884959719869,TRUE
+2017,gem_veiligheidsgevoel, Harddrugs,0.008239768712338336,0.046448480918839685,FALSE
+2017,gem_veiligheidsgevoel, Heling,0.029112880865987734,0.057211868196633375,FALSE
+2017,gem_veiligheidsgevoel, Huisvredebreuk,0.2356210035126458,0.1636040780849668,TRUE
+2017,gem_veiligheidsgevoel, Joyriding,0.2598278239056435,0.16418906486240004,TRUE
+2017,gem_veiligheidsgevoel, Levensmisdrijf,0.17368606045926627,0.09306368078723137,TRUE
+2017,gem_veiligheidsgevoel, Lokaalvredebreuk,0.42908344267490994,0.2515914219012003,TRUE
+2017,gem_veiligheidsgevoel," Mensenhandel, mensensmokkel",0.13350686946394807,0.11623941013850736,TRUE
+2017,gem_veiligheidsgevoel, Militair misdrijf,0.9867715746884123,0.7460871797697468,TRUE
+2017,gem_veiligheidsgevoel, Misdrijf (overig),0.06661188226688908,0.08736328464712462,FALSE
+2017,gem_veiligheidsgevoel, Misdrijven overige wetten,0.06661188226688908,0.08745987625160145,FALSE
+2017,gem_veiligheidsgevoel, Misdrijven WvSr (overig),0.03406733166335618,0.08223164022732976,FALSE
+2017,gem_veiligheidsgevoel, Mishandeling,0.04460929646336309,0.0751457154092412,FALSE
+2017,gem_veiligheidsgevoel, Muntmisdrijf,0.0268409444196136,0.06860445495800027,FALSE
+2017,gem_veiligheidsgevoel, Niet opvolgen van ambtelijk bevel,0.2356210035126458,0.1636444136708204,TRUE
+2017,gem_veiligheidsgevoel, Ontucht met minderjarige,0.1776753737252057,0.12685044056482075,TRUE
+2017,gem_veiligheidsgevoel, Ontucht met misbruik van gezag,0.1513462609490528,0.1567891320650805,FALSE
+2017,gem_veiligheidsgevoel, Openbaar gezag misdrijf,0.16205750617523718,0.10621120186570643,TRUE
+2017,gem_veiligheidsgevoel, Openbaar gezag misdrijf (overig),0.06654904651890647,0.20249038905689076,FALSE
+2017,gem_veiligheidsgevoel, Openbare orde misdrijf,0.08001937592027497,0.0657805645453795,TRUE
+2017,gem_veiligheidsgevoel, Openbare orde misdrijf (overig),0.15910576941219556,0.08400413026771125,TRUE
+2017,gem_veiligheidsgevoel, Openlijk geweld tegen goed,0.016569290713166707,0.06079496749388724,FALSE
+2017,gem_veiligheidsgevoel, Openlijk geweld tegen persoon,0.01390596881436279,0.05926185070519541,FALSE
+2017,gem_veiligheidsgevoel, Openlijke geweldpleging,0.01390596881436279,0.055584154512008155,FALSE
+2017,gem_veiligheidsgevoel, Oplichting,0.12445479118883407,0.10417824795129405,TRUE
+2017,gem_veiligheidsgevoel, Pornografie,0.11375835792313471,0.11672126707293118,FALSE
+2017,gem_veiligheidsgevoel, Rijden onder invloed,0.11210929146889193,0.08417973620584318,TRUE
+2017,gem_veiligheidsgevoel, Rijden tijdens ontzegging,0.0625114832796152,0.0574483640172192,TRUE
+2017,gem_veiligheidsgevoel, Rijden tijdens rijverbod,0.13890682357945394,0.07543933183605733,TRUE
+2017,gem_veiligheidsgevoel, Schennis der eerbaarheid,0.1445863013033475,0.1969659135538009,FALSE
+2017,gem_veiligheidsgevoel, Seksueel misdrijf,0.2116429672200426,0.14526351968380347,TRUE
+2017,gem_veiligheidsgevoel, Seksueel misdrijf (overig),0.9134882198302783,0.45483553004599697,TRUE
+2017,gem_veiligheidsgevoel, Softdrugs,0.011374198642690958,0.0706221769527069,FALSE
+2017,gem_veiligheidsgevoel, Stalking,0.18256397857316675,0.124327667117063,TRUE
+2017,gem_veiligheidsgevoel, Valse aangifte,0.045739074410112046,0.08367507947017039,FALSE
+2017,gem_veiligheidsgevoel, Valsheid in geschriften,0.09717377477992883,0.06788977040252009,TRUE
+2017,gem_veiligheidsgevoel, Valsheid in zegels en merken,0.23505422739424864,0.13381032652109326,TRUE
+2017,gem_veiligheidsgevoel, Valsheidsmisdrijf,0.07536233505348378,0.06748496478185562,TRUE
+2017,gem_veiligheidsgevoel, Verblijf ongewenste vreemdeling,0.03955832125855485,0.05123566551860037,FALSE
+2017,gem_veiligheidsgevoel, Verkeersmisdrijf (overig),0.07536233505348378,0.0955682451220814,FALSE
+2017,gem_veiligheidsgevoel, Verkeersmisdrijven,0.0625114832796152,0.0735720104240496,FALSE
+2017,gem_veiligheidsgevoel, Verkrachting,0.24928250596238,0.1298447373900804,TRUE
+2017,gem_veiligheidsgevoel, Verlaten plaats ongeval,0.06661188226688908,0.06994232988258431,FALSE
+2017,gem_veiligheidsgevoel, Vermogensmisdrijven,0.04460929646336309,0.046860883135959375,FALSE
+2017,gem_veiligheidsgevoel, Vernieling aan auto,0.13765791634772961,0.08383206425373002,TRUE
+2017,gem_veiligheidsgevoel, Vernieling aan openbaar gebouw,0.1445863013033475,0.10164597156899902,TRUE
+2017,gem_veiligheidsgevoel, Vernieling en beschadiging,0.08001937592027497,0.08210319291262325,FALSE
+2017,gem_veiligheidsgevoel, Vernieling middel openbvervoer,0.0026280075981639506,0.03459802520938671,FALSE
+2017,gem_veiligheidsgevoel," Vernieling, beschadiging (overig)",0.10060263183225482,0.09004042586835803,TRUE
+2017,gem_veiligheidsgevoel," Vernielingen, misdropenborde/gezag",0.04460929646336309,0.07287188371724618,FALSE
+2017,gem_veiligheidsgevoel, Voeren vals kenteken,0.2300029800062524,0.1096069666229782,TRUE
+2017,gem_veiligheidsgevoel, Vrijheidsbeneming/gijzeling,0.032383488402132565,0.0576351007421263,FALSE
+2017,gem_veiligheidsgevoel, Wederspannigheid,0.052774096020423045,0.04754530872925122,TRUE
+2017,gem_veiligheidsgevoel, Weigeren blaastest/bloedonderzoek,0.012014825555997533,0.038226513423309516,FALSE
+2017,gem_veiligheidsgevoel, Witwassen,0.1445863013033475,0.10393136215769339,TRUE
+2017,gem_veiligheidsgevoel,"Misdrijven, totaal",0.04460929646336309,0.056293829631819836,FALSE
